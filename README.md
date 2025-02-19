@@ -1,4 +1,9 @@
-# Flight Price and Itinerary - Data Engineering with PostgreSQL and Flask
+# Flight Price Analysis and API Integration
+
+## Team Members 
+1. James Garcia
+2. Lovecy Thomas
+3. Seyhr Waqas
 
 ## Project Overview & Rationale
 ### Topic:
