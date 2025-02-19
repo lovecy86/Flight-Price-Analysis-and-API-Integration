@@ -1,4 +1,4 @@
-# Flight Price and Itinerary - Data Engineering with PostgreSQL and Flask
+# Flight Price Analysis and API Integration
 
 ## Project Overview & Rationale
 ### Topic:
