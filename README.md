@@ -1,5 +1,10 @@
 # Flight Price Analysis and API Integration
 
+## Team Members 
+1. James Garcia
+2. Lovecy Thomas
+3. Seyhr Waqas
+
 ## Project Overview & Rationale
 ### Topic:
 The objective of this project is to create a detailed flight data analysis using PostgreSQL, Flask, and an ETL pipeline. The project will involve calling the API of GoflightsLab to create CSV files for each month, covering the period from March 2025 to February 2026. These files, specifically detailing flights from Toronto, Montreal, and Ottawa to Texas, will then be merged and processed to form a well-normalized database. Separate tables for airports and airlines will be created to achieve 3NF. A Flask API will facilitate user interaction with the processed data, enabling efficient querying of flight prices, itineraries, and airline specifics.
