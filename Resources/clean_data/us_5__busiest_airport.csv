@@ -1,6 +1,6 @@
-Name,IATA Code,ICAO Code,Country,City,City Code,Latitude,Longitude,Timezone,Departures
-Atlantic City International Airport,ACY,KACY,US,Atlantic City,ACY,39.45762,-74.57654,America/New_York,
-Chicago O'Hare International Airport,ORD,KORD,US,Chicago,CHI,41.97959,-87.90446,America/Chicago,177167.0
-Dallas/Fort Worth International Airport,DFW,KDFW,US,Dallas-Ft Worth,DFW,32.89595,-97.0372,America/Chicago,172447.0
-Denver International Airport,DEN,KDEN,US,Denver,DEN,39.85891,-104.67326,America/Denver,100565.0
-Los Angeles International Airport,LAX,KLAX,US,Los Angeles,LAX,33.94251,-118.40897,America/Los_Angeles,112571.0
+Name,IATA Code,ICAO Code,Country,City,Latitude,Longitude,Timezone,Departures
+Atlantic City International Airport,ACY,KACY,US,Atlantic City,39.45762,-74.57654,EST,
+Chicago O'Hare International Airport,ORD,KORD,US,Chicago,41.97959,-87.90446,CST,177167.0
+Dallas/Fort Worth International Airport,DFW,KDFW,US,Dallas-Ft Worth,32.89595,-97.0372,CST,172447.0
+Denver International Airport,DEN,KDEN,US,Denver,39.85891,-104.67326,MST,100565.0
+Los Angeles International Airport,LAX,KLAX,US,Los Angeles,33.94251,-118.40897,PST,112571.0
