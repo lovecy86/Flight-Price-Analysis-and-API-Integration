@@ -1,0 +1,18 @@
+airline_id,airline_name,iata,country_code,is_airline_passenger,total_aircrafts,average_fleet_age,accidents_last_5y,iosa_registered,iosa_expiry
+al1,Alaska Airlines,AS,US,True,158,8.1,1,True,2025-01-16 00:00:00+00:00
+al2,American Airlines,AA,US,True,684,10.2,26,True,2025-07-29 00:00:00+00:00
+al3,Air Canada,AC,CA,True,98,11.7,0,True,2024-04-18 00:00:00+00:00
+al4,Delta Air Lines,DL,US,True,591,12.5,22,True,2024-10-17 00:00:00+00:00
+al5,Envoy Air,MQ,US,True,161,9.6,0,True,2025-11-18 00:00:00+00:00
+al6,Frontier Airlines,F9,US,True,83,3.0,4,True,2024-01-03 00:00:00+00:00
+al7,GOL Linhas Aereas Inteligentes,G3,BR,True,103,10.7,0,True,2025-11-23 00:00:00+00:00
+al8,Jazz Aviation,QK,CA,True,85,13.8,3,True,2024-10-21 00:00:00+00:00
+al9,Lufthansa,LH,DE,True,131,8.9,1,True,2026-05-12 00:00:00+00:00
+al10,Porter Airlines Inc,P3,CA,True,1,8.0,0,True,
+al11,Porter Airlines,PD,CA,True,1,9.0,0,True,
+al12,Republic Airline United Express,YX,US,True,182,10.1,1,True,2024-12-12 00:00:00+00:00
+al13,SkyWest Airlines,OO,US,True,462,10.7,3,True,2024-09-25 00:00:00+00:00
+al14,Spirit Airlines,NK,US,True,125,4.1,4,True,2025-07-30 00:00:00+00:00
+al15,United Airlines,UA,US,True,502,14.1,12,True,2025-02-26 00:00:00+00:00
+al16,Westjet,WS,CA,True,70,9.8,5,True,2024-11-27 00:00:00+00:00
+al17,American Eagle,AA,US,True,567,10.0,1,True,2024-08-02 00:00:00+00:00
