@@ -1,0 +1,18 @@
+airline_name,country_code,iata,iosa_registered,iosa_expiry,is_airline_passenger,total_aircrafts,average_fleet_age,accidents_last_5y
+Alaska Airlines,US,AS,1.0,2025-01-16T00:00:00.000Z,1.0,158.0,8.1,1.0
+American Airlines,US,AA,1.0,2025-07-29T00:00:00.000Z,1.0,684.0,10.2,26.0
+Air Canada,CA,AC,1.0,2024-04-18T00:00:00.000Z,1.0,98.0,11.7,0.0
+Delta Air Lines,US,DL,1.0,2024-10-17T00:00:00.000Z,1.0,591.0,12.5,22.0
+Envoy Air,US,MQ,1.0,2025-11-18T00:00:00.000Z,1.0,161.0,9.6,0.0
+Frontier Airlines,US,F9,1.0,2024-01-03T00:00:00.000Z,1.0,83.0,3.0,4.0
+GOL Linhas Aereas Inteligentes,BR,G3,1.0,2025-11-23T00:00:00.000Z,1.0,103.0,10.7,0.0
+Jazz Aviation,CA,QK,1.0,2024-10-21T00:00:00.000Z,1.0,85.0,13.8,3.0
+Lufthansa,DE,LH,1.0,2026-5-12T00:00:00.000Z,1.0,131.0,8.9,1.0
+Porter Airlines Inc,CA,P3,0.0,,1.0,1.0,8.0,0.0
+Porter Airlines,CA,PD,0.0,,1.0,1.0,9.0,0.0
+Republic Airline United Express,US,YX,1.0,2024-12-12T00:00:00.000Z,1.0,182.0,10.1,1.0
+SkyWest Airlines,US,OO,1.0,2024-09-25T00:00:00.000Z,1.0,462.0,10.7,3.0
+Spirit Airlines,US,NK,1.0,2025-07-30T00:00:00.000Z,1.0,125.0,4.1,4.0
+United Airlines,US,UA,1.0,2025-02-26T00:00:00.000Z,1.0,502.0,14.1,12.0
+Westjet,CA,WS,1.0,2024-11-27T00:00:00.000Z,1.0,70.0,9.8,5.0
+American Eagle,US,AA,1.0,2024-08-2T00:00:00.000Z,1.0,567.0,10.0,1.0
