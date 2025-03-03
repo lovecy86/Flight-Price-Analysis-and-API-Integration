@@ -1,7 +1,7 @@
 Name,IATA Code,ICAO Code,Country,City,City Code,Latitude,Longitude,Timezone,Departures
-Abbotsford International Airport,YXX,CYXX,CA,Abbotsford,YVR,49.02529,-122.37735,America/Vancouver,941.0
-Aklavik/Freddie Carmichael Airport,LAK,CYKD,CA,Aklavik,LAK,68.22333,-135.00583,America/Yellowknife,348.0
-Akulivik Airport,AKV,CYKO,CA,Akulivik,AKV,60.81861,-78.14861,America/Toronto,270.0
+Abbotsford International Airport,YXX,CYXX,CA,Abbotsford,YVR,49.02529,-122.37735,America/Vancouver,941
+Aklavik/Freddie Carmichael Airport,LAK,CYKD,CA,Aklavik,LAK,68.22333,-135.00583,America/Yellowknife,348
+Akulivik Airport,AKV,CYKO,CA,Akulivik,AKV,60.81861,-78.14861,America/Toronto,270
 Alberni Valley Regional Airport,YPB,,CA,Port Alberni,YPB,49.31933,-124.92979,America/Vancouver,
 Alert Bay Airport,YAL,CYAL,CA,Alert Bay,,50.5822,-126.916,America/Vancouver,
 Alert Airport,YLT,CYLT,CA,Alert,,82.51778,-62.28056,America/Iqaluit,
@@ -19,9 +19,9 @@ Assiniboia Airport,,CWJI,CA,,,49.73097,-105.94558,America/Regina,
 Athabasca Airport,,CYWM,CA,Athabasca,,54.7383,-113.20553,America/Edmonton,
 Atikokan Municipal Airport,YIB,CYIB,CA,Atikokan,,48.7739,-91.6386,America/Atikokan,
 Atlin Airport,,CYSQ,CA,Atlin,,59.57994,-133.66834,America/Creston,
-Attawapiskat Airport,YAT,CYAT,CA,Attawapiskat,YAT,52.9275,-82.4319,America/Toronto,28.0
-Aupaluk Airport,YPJ,CYLA,CA,Aupaluk,YPJ,59.29667,-69.59972,America/Toronto,232.0
-Bagotville Airport,YBG,CYBG,CA,La Baie,YBG,48.33055,-70.99639,America/Toronto,149.0
+Attawapiskat Airport,YAT,CYAT,CA,Attawapiskat,YAT,52.9275,-82.4319,America/Toronto,28
+Aupaluk Airport,YPJ,CYLA,CA,Aupaluk,YPJ,59.29667,-69.59972,America/Toronto,232
+Bagotville Airport,YBG,CYBG,CA,La Baie,YBG,48.33055,-70.99639,America/Toronto,149
 Baie-Comeau Airport,YBC,CYBC,CA,Baie-Comeau,YBC,49.1325,-68.20444,America/Toronto,
 Baie-Johan-Beetz Seaplane Base,YBJ,,CA,,,50.28361,-62.81038,America/Toronto,
 Baker Lake Airport,YBK,CYBK,CA,Baker Lake,YBK,64.29889,-96.07778,America/Rankin_Inlet,
@@ -29,28 +29,28 @@ Bakers Narrows Seaplane Base,,CFF8,CA,,,54.67845,-101.65941,America/Winnipeg,
 Bamfield Seaplane Base,YBF,,CA,Bamfield,YBF,48.83467,-125.1378,America/Vancouver,
 Banff Airport,YBA,CYBA,CA,Banff,,51.20753,-115.54124,America/Edmonton,
 Bar River Airport,YEB,,CA,Echo Bay,YAM,46.41928,-84.09845,America/Toronto,
-Bathurst Airport,ZBF,CZBF,CA,South Tetagouche,ZBF,47.62972,-65.73889,America/Moncton,97.0
+Bathurst Airport,ZBF,CZBF,CA,South Tetagouche,ZBF,47.62972,-65.73889,America/Moncton,97
 Bearskin Lake Airport,XBE,CNE3,CA,Bearskin Lake,XBE,53.9656,-91.0272,America/Winnipeg,
 Beaver Creek Airport,YXQ,CYXQ,CA,Beaver Creek,,62.41089,-140.8691,America/Whitehorse,
 Bedwell Harbour Water Aerodrome,YBW,,CA,Duncan,DUQ,48.74764,-123.23128,America/Vancouver,
 Bella Bella (Campbell Island) Airport,ZEL,CBBC,CA,Bella Bella,ZEL,52.18193,-128.15526,America/Vancouver,
 Bella Bella/Shearwater Water Aerodrome,YSX,,CA,,,52.1485,-128.0869,America/Vancouver,
-Bella Coola Airport,QBC,CYBD,CA,Bella Coola,QBC,52.3875,-126.59583,America/Vancouver,118.0
+Bella Coola Airport,QBC,CYBD,CA,Bella Coola,QBC,52.3875,-126.59583,America/Vancouver,118
 Berens River Airport,YBV,CYBV,CA,Berens River,YBV,52.35851,-97.02129,America/Winnipeg,
 Big Bay Seaplane Base,YIG,,CA,Stuart Island,YIG,50.39265,-125.1408,America/Vancouver,
 Big Trout Lake Airport,YTL,CYTL,CA,Big Trout Lake,YTL,53.81857,-89.89829,America/Winnipeg,
-Billy Bishop Toronto City Airport,YTZ,CYTZ,CA,Toronto,YTO,43.62974,-79.39828,America/Toronto,
+Billy Bishop Toronto City Airport,YTZ,CYTZ,CA,Toronto,YTO,43.62974,-79.39828,America/Toronto,752
 Black Tickle Airport,YBI,CCE4,CA,Black Tickle,YBI,53.46908,-55.78537,America/St_Johns,
 Bloodvein River Airport,YDV,CZTA,CA,Bloodvein River,,51.78483,-96.69205,America/Winnipeg,
 Blubber Bay Seaplane Base,XBB,,CA,Blubber Bay,YCA,49.7942,-124.61912,America/Vancouver,
 Blue River Airport,,CYCP,CA,Blue River,,52.11667,-119.28333,America/Vancouver,
 Boat Bluff Lighthouse Helipad,,CWZM,CA,Sarah Island,,52.643733,-128.524586,America/Vancouver,
 Bob Quinn Lake Airport,YBO,,CA,Bob Quinn Lake,,56.96697,-130.2503,America/Vancouver,
-Bonaventure Airport,YVB,CYVB,CA,Bonaventure,YVB,48.0711,-65.4603,America/Toronto,180.0
+Bonaventure Airport,YVB,CYVB,CA,Bonaventure,YVB,48.0711,-65.4603,America/Toronto,180
 Bonnyville Airport,YBY,CYBF,CA,Bonnyville,YBY,54.3042,-110.744,America/Edmonton,
 Boundary Bay Airport,YDT,CZBB,CA,Delta,YVR,49.0742,-123.012,America/Vancouver,
 Brampton Airport,,CNC3,CA,Brampton,XPN,43.75912,-79.87427,America/Toronto,
-Brandon Municipal Airport,YBR,CYBR,CA,Brandon,YBR,49.90738,-99.94915,America/Winnipeg,211.0
+Brandon Municipal Airport,YBR,CYBR,CA,Brandon,YBR,49.90738,-99.94915,America/Winnipeg,211
 Brantford Airport,,CYFD,CA,Brantford,XFV,43.12825,-80.34016,America/Toronto,
 Brevoort Island Airstrip,,CWOB,CA,Brevoort Island,,63.325446,-64.154428,America/Pangnirtung,
 Brochet Airport,YBT,CYBT,CA,Brochet,YBT,57.8894,-101.679,America/Winnipeg,
@@ -64,12 +64,12 @@ Burwash Airport,YDB,CYDB,CA,Burwash Landing,,61.37111,-139.04056,America/Whiteho
 Byron Bay Airport,YUK,CYUK,CA,,,68.75623,-109.08875,America/Cambridge_Bay,
 Cabin Plant Heliport,DCP,,CA,,,59.23226,-121.71397,America/Fort_Nelson,
 Cache Creek Airport,YZA,,CA,Cache Creek,,50.77381,-121.32133,America/Vancouver,
-Calgary International Airport,YYC,CYYC,CA,Calgary,YYC,51.12933,-114.01294,America/Edmonton,35123.0
+Calgary International Airport,YYC,CYYC,CA,Calgary,YYC,51.12933,-114.01294,America/Edmonton,35123
 Calgary/Springbank Airport,,CYBW,CA,Calgary,YYC,51.10306,-114.37444,America/Edmonton,
-Cambridge Bay Airport,YCB,CYCB,CA,Cambridge Bay,YCB,69.10805,-105.13833,America/Cambridge_Bay,322.0
-Campbell River Airport,YBL,CYBL,CA,Campbell River,YBL,49.95083,-125.27083,America/Vancouver,236.0
+Cambridge Bay Airport,YCB,CYCB,CA,Cambridge Bay,YCB,69.10805,-105.13833,America/Cambridge_Bay,322
+Campbell River Airport,YBL,CYBL,CA,Campbell River,YBL,49.95083,-125.27083,America/Vancouver,236
 Campbell River Waterdrome,YHH,,CA,Campbell River,YBL,50.04733,-125.25624,America/Vancouver,
-Cape Dorset Airport,YTE,CYTE,CA,Kinngait,YTE,64.23094,-76.52862,America/Iqaluit,134.0
+Cape Dorset Airport,YTE,CYTE,CA,Kinngait,YTE,64.23094,-76.52862,America/Iqaluit,134
 Cape Dyer,YVN,,CA,,,66.5919,-61.5733,America/Iqaluit,
 Cape Young Seaplane Base,,CYUI,CA,,,68.93333,-116.91667,America/Cambridge_Bay,
 Carp Airport,,CYRP,CA,Ottawa,YOW,45.31827,-76.02063,America/Toronto,
@@ -81,7 +81,7 @@ CFB Borden Heliport,YBN,,CA,Barrie,YLK,44.2693,-79.9152,America/Toronto,
 CFB Cold Lake,YOD,CYOD,CA,Cold Lake,YOD,54.40404,-110.27879,America/Edmonton,
 CFB Edmonton,YED,CYED,CA,Edmonton,YEA,53.67434,-113.4783,America/Edmonton,
 CFB Gagetown,YCX,CYCX,CA,Oromocto,YFC,45.83661,-66.43787,America/Moncton,
-CFB Goose Bay,YYR,CYYR,CA,Goose Bay,YYR,53.31601,-60.4188,America/Goose_Bay,494.0
+CFB Goose Bay,YYR,CYYR,CA,Goose Bay,YYR,53.31601,-60.4188,America/Goose_Bay,494
 CFB Greenwood,YZX,CYZX,CA,Greenwood,,44.98444,-64.91694,America/Halifax,
 CFB Moose Jaw,YMJ,CYMJ,CA,Moose Jaw,YMJ,50.33028,-105.55917,America/Regina,
 CFB Shilo,YLO,,CA,Brandon,YBR,49.80598,-99.64527,America/Winnipeg,
@@ -91,7 +91,7 @@ CFB Valcartier,YOY,CYOY,CA,Quebec,YQB,46.9014,-71.50246,America/Toronto,
 Chapleau Airport,YLD,CYLD,CA,Chapleau,,47.82088,-83.35276,America/Toronto,
 Charlevoix Airport,YML,CYML,CA,Charlevoix,,47.5975,-70.22389,America/Toronto,
 Charlo Airport,YCL,CYCL,CA,Charlo,YCL,47.99083,-66.33028,America/Moncton,
-Charlottetown Airport,YYG,CYYG,CA,Charlottetown,YYG,46.2864,-63.1265,America/Halifax,585.0
+Charlottetown Airport,YYG,CYYG,CA,Charlottetown,YYG,46.2864,-63.1265,America/Halifax,585
 Charlottetown Airport,YHG,CCH4,CA,Charlottetown,YHG,52.76489,-56.11731,America/St_Johns,
 Chatham-Kent Airport,XCM,CYCK,CA,Chatham-Kent,XCM,42.3081,-82.07894,America/Toronto,
 Chatham Point Light Station Helipad,,CWFM,CA,Chatham Point,,50.333101,-125.445263,America/Vancouver,
@@ -99,22 +99,22 @@ Cheadle Airport,TIL,,CA,Cheadle,YYC,51.05737,-113.62095,America/Edmonton,
 Chesterfield Inlet Airport,YCS,CYCS,CA,Chesterfield Inlet,YCS,63.34587,-90.72759,America/Rankin_Inlet,
 Chetwynd Airport,YCQ,CYCQ,CA,Chetwynd,,55.68722,-121.62667,America/Dawson_Creek,
 Chevery Airport,YHR,CYHR,CA,Chevery,YHR,50.4689,-59.6367,America/Blanc-Sablon,
-Chibougamau/Chapais Airport,YMT,CYMT,CA,Chibougamau,YMT,49.77194,-74.52806,America/Toronto,14.0
+Chibougamau/Chapais Airport,YMT,CYMT,CA,Chibougamau,YMT,49.77194,-74.52806,America/Toronto,14
 Chicoutimi/Saint-Honore Aerodrome,,CYRC,CA,Saint-Honoré,YBG,48.5207,-71.05056,America/Toronto,
 Chilliwack Airport,YCW,CYCW,CA,Chilliwack,YCW,49.15364,-121.94301,America/Vancouver,
 Chisasibi Airport,YKU,,CA,Chisasibi,YKU,53.8056,-78.9169,America/Toronto,
 Churchill Airport,YYQ,CYYQ,CA,Churchill,YYQ,58.74051,-94.07267,America/Winnipeg,
-Churchill Falls Airport,ZUM,CZUM,CA,Churchill Falls,ZUM,53.56194,-64.10639,America/Goose_Bay,30.0
+Churchill Falls Airport,ZUM,CZUM,CA,Churchill Falls,ZUM,53.56194,-64.10639,America/Goose_Bay,30
 Chute-Des-Passes Airport,YWQ,,CA,Chutes-des-Passes,,49.88695,-71.25659,America/Toronto,
 Cigar Lake Airport,,CJW7,CA,Cigar Lake,,58.056153,-104.483377,America/Regina,
 Clarence and Abel Swallow Airport,,CFX5,CA,,,52.7305,-72.22083,America/Toronto,
 "CLINTON/BLEIBLER RANCH,BC",,CYIN,CA,,,51.266336,-121.684683,America/Vancouver,
-Cluff Lake Airport,XCL,,CA,Cluff Lake,,58.3911018372,-109.51599884,America/Swift_Current,
-Clyde River Airport,YCY,CYCY,CA,Clyde River,YCY,70.48611,-68.51667,America/Iqaluit,133.0
+Cluff Lake Airport,XCL,,CA,Cluff Lake,,58.39110184,-109.5159988,America/Swift_Current,
+Clyde River Airport,YCY,CYCY,CA,Clyde River,YCY,70.48611,-68.51667,America/Iqaluit,133
 Cochrane Airport,YCN,CYCN,CA,Cochrane,YCN,49.1056,-81.0136,America/Toronto,
 Collins Bay Airport,YKC,CYKC,CA,Collins Bay,YKC,58.23298,-103.68141,America/Regina,
 Colville Lake/Tommy Kochon Aerodrome,YCK,CYVL,CA,Colville Lake,YCK,67.03973,-126.0815,America/Yellowknife,
-Comox Valley Airport,YQQ,CYQQ,CA,Comox,YQQ,49.71083,-124.88667,America/Vancouver,1478.0
+Comox Valley Airport,YQQ,CYQQ,CA,Comox,YQQ,49.71083,-124.88667,America/Vancouver,1478
 Conklin (Leismer) Airport,CFM,CET2,CA,Conklin,,55.69589,-111.28071,America/Edmonton,
 Coral Harbour Airport,YZS,CYZS,CA,Coral Harbour,YZS,64.19333,-83.35944,America/Atikokan,
 Cornwall Regional Airport,YCC,CYCC,CA,Cornwall,YCC,45.0928,-74.5633,America/Toronto,
@@ -122,19 +122,19 @@ Coronation Airport,YCT,CYCT,CA,Coronation,,52.07573,-111.44814,America/Edmonton,
 Cortes Bay Waterdrome,YCF,,CA,Campbell River,YBL,50.06171,-124.93116,America/Vancouver,
 Courtenay Airpark,YCA,CAH3,CA,Courtenay,YCA,49.68057,-124.98257,America/Vancouver,
 Cowley Airport,YYM,CYYM,CA,Cowley,,49.63606,-114.09645,America/Edmonton,
-Cranbrook/Canadian Rockies International Airport,YXC,CYXC,CA,Cranbrook,YXC,49.61222,-115.78194,America/Edmonton,855.0
+Cranbrook/Canadian Rockies International Airport,YXC,CYXC,CA,Cranbrook,YXC,49.61222,-115.78194,America/Edmonton,855
 Creston Aerodrome,CFQ,,CA,,,49.03608,-116.49795,America/Creston,
 Cross Lake (Charlie Sinclair Memorial) Airport,YCR,CYCR,CA,Cross Lake,YCR,54.6106,-97.7608,America/Winnipeg,
-Dawson City Airport,YDA,CYDA,CA,Dawson City,YDA,64.04306,-139.12778,America/Whitehorse,126.0
+Dawson City Airport,YDA,CYDA,CA,Dawson City,YDA,64.04306,-139.12778,America/Whitehorse,126
 Dawson Creek Airport,YDQ,CYDQ,CA,Dawson Creek,YDQ,55.74233,-120.183,America/Dawson_Creek,
 Dean River Airport,YRD,,CA,Kimsquit Valley,,52.82338,-126.96543,America/Vancouver,
 Dease Lake Airport,YDL,CYDL,CA,Dease Lake,YDL,58.42509,-130.02354,America/Vancouver,
-Deer Lake Airport,YVZ,CYVZ,CA,Deer Lake,YVZ,52.6558,-94.0614,America/Winnipeg,54.0
-Deer Lake Regional Airport,YDF,CYDF,CA,Deer Lake,YDF,49.21083,-57.39139,America/St_Johns,841.0
+Deer Lake Airport,YVZ,CYVZ,CA,Deer Lake,YVZ,52.6558,-94.0614,America/Winnipeg,54
+Deer Lake Regional Airport,YDF,CYDF,CA,Deer Lake,YDF,49.21083,-57.39139,America/St_Johns,841
 Deer Lake Seaplane Base,,CJA8,CA,,,52.61696,-94.04486,America/Winnipeg,
-Deline Airport,YWJ,CYWJ,CA,Déline,YWJ,65.21054,-123.43569,America/Yellowknife,322.0
-Denny Island Aerodrome,ZEL,CYJQ,CA,Denny Island,,52.13781,-128.06007,America/Vancouver,118.0
-Desolation Sound,YDS,,CA,Desolation Sound,YDS,50.333332,-125.0,America/Vancouver,
+Deline Airport,YWJ,CYWJ,CA,Déline,YWJ,65.21054,-123.43569,America/Yellowknife,322
+Denny Island Aerodrome,ZEL,CYJQ,CA,Denny Island,,52.13781,-128.06007,America/Vancouver,118
+Desolation Sound,YDS,,CA,Desolation Sound,YDS,50.333332,-125,America/Vancouver,
 Diavik Airport,DVK,,CA,Diavik,,64.51083,-110.30531,America/Yellowknife,
 Digby/Annapolis Regional Airport,YDG,CYID,CA,Digby,,44.54877,-65.78545,America/Halifax,
 Dolbeau-Saint-Felicien Airport,YDO,CYDO,CA,Dolbeau-Saint-Felicien,,48.7785,-72.375,America/Toronto,
@@ -143,22 +143,22 @@ Doris Lake Seaplane Base,JOJ,,CA,Hope Bay,,68.12664,-106.59107,America/Cambridge
 Douglas Lake Airport,DGF,,CA,Douglas Lake,,50.16275,-120.13992,America/Vancouver,
 Downsview Airport,YZD,CYZD,CA,North York,XPN,43.74335,-79.46609,America/Toronto,
 Drayton Valley Industrial Airport,YDC,,CA,Drayton Valley,,53.265,-114.962,America/Edmonton,
-Dryden Regional Airport,YHD,CYHD,CA,Dryden,YHD,49.83167,-92.74417,America/Winnipeg,105.0
+Dryden Regional Airport,YHD,CYHD,CA,Dryden,YHD,49.83167,-92.74417,America/Winnipeg,105
 Duncan Airport,DUQ,CAM3,CA,Duncan,DUQ,48.754534,-123.709702,America/Vancouver,
-Ear Falls Airport,,CYMY,CA,Ear Falls,,50.7178001404,-93.3835983276,America/Rainy_River,
+Ear Falls Airport,,CYMY,CA,Ear Falls,,50.71780014,-93.38359833,America/Rainy_River,
 Earlton (Timiskaming Regional) Airport,YXR,CYXR,CA,Earlton,YXR,47.69581,-79.85211,America/Toronto,
-Eastmain River Airport,ZEM,CZEM,CA,Eastmain River,ZEM,52.22927,-78.5219,America/Toronto,14.0
+Eastmain River Airport,ZEM,CZEM,CA,Eastmain River,ZEM,52.22927,-78.5219,America/Toronto,14
 Edmonton City Centre Airport,YXD,CYXD,CA,Edmonton,YEA,53.5725,-113.52056,America/Edmonton,
 Edmonton/Cooking Lake Airport,,CEE7,CA,Edmonton,YEA,53.42569,-113.11001,America/Edmonton,
-Edmonton International Airport,YEG,CYEG,CA,Edmonton,YEA,53.30801,-113.58447,America/Edmonton,13477.0
+Edmonton International Airport,YEG,CYEG,CA,Edmonton,YEA,53.30801,-113.58447,America/Edmonton,13477
 Edmonton/Villeneuve Airport,,CZVL,CA,Edmonton,YEA,53.6675,-113.85444,America/Edmonton,
 Edmundston Airport,,CYES,CA,Edmundston,,47.48708,-68.47739,America/Moncton,
 Edson Airport,YET,CYET,CA,Edson,YET,53.57895,-116.46216,America/Edmonton,
 Ekati Airport,YOA,CYOA,CA,Ekati,YOA,64.69914,-110.61434,America/Yellowknife,
 Elliot Lake Municipal Airport,YEL,CYEL,CA,Elliot Lake,YEL,46.35139,-82.56139,America/Toronto,
 Empress Airport,,CYEA,CA,Empress,,50.93329,-110.01269,America/Edmonton,
-Ennadai Lake Airport,,CWJC,CA,Ennadai,,61.1333333333,-100.9,America/Rankin_Inlet,
-Erik Nielsen Whitehorse International Airport,YXY,CYXY,CA,Whitehorse,YXY,60.70955,-135.06727,America/Whitehorse,762.0
+Ennadai Lake Airport,,CWJC,CA,Ennadai,,61.13333333,-100.9,America/Rankin_Inlet,
+Erik Nielsen Whitehorse International Airport,YXY,CYXY,CA,Whitehorse,YXY,60.70955,-135.06727,America/Whitehorse,762
 Estevan Regional Aerodrome,YEN,CYEN,CA,Estevan,YEN,49.20801,-102.96005,America/Regina,
 Eureka Aerodrome,YEU,CYEU,CA,Eureka,,79.99472,-85.81417,America/Rankin_Inlet,
 Fairmont Hot Springs Airport,YCZ,CYCZ,CA,Fairmont Hot Springs,,50.32453,-115.87229,America/Edmonton,
@@ -168,36 +168,36 @@ Flin Flon Airport,YFO,CYFO,CA,Flin Flon,YFO,54.67806,-101.68167,America/Winnipeg
 Fond-Du-Lac Airport,ZFD,CZFD,CA,Fond-du-Lac,ZFD,59.3344,-107.182,America/Regina,
 Fontanges Airport,YFG,,CA,Fontanges,,54.5532,-71.17759,America/Toronto,
 Forestville Airport,YFE,CYFE,CA,Forestville,,48.7461,-69.0972,America/Toronto,
-Fort Albany Airport,YFA,CYFA,CA,Fort Albany,YFA,52.2014,-81.6969,America/Toronto,38.0
-Fort Chipewyan Airport,YPY,CYPY,CA,Fort Chipewyan,YPY,58.76667,-111.11667,America/Edmonton,162.0
-Fort Frances Municipal Airport,YAG,CYAG,CA,Fort Frances,YAG,48.6542,-93.4397,America/Winnipeg,62.0
-Fort Good Hope Airport,YGH,CYGH,CA,Fort Good Hope,YGH,66.24066,-128.6478,America/Yellowknife,268.0
+Fort Albany Airport,YFA,CYFA,CA,Fort Albany,YFA,52.2014,-81.6969,America/Toronto,38
+Fort Chipewyan Airport,YPY,CYPY,CA,Fort Chipewyan,YPY,58.76667,-111.11667,America/Edmonton,162
+Fort Frances Municipal Airport,YAG,CYAG,CA,Fort Frances,YAG,48.6542,-93.4397,America/Winnipeg,62
+Fort Good Hope Airport,YGH,CYGH,CA,Fort Good Hope,YGH,66.24066,-128.6478,America/Yellowknife,268
 Fort Hope Airport,YFH,CYFH,CA,Fort Hope,YFH,51.5619,-87.9078,America/Toronto,
 Fort Liard Airport,YJF,CYJF,CA,Fort Liard,,60.23564,-123.47071,America/Yellowknife,
 Fort MacKay/Albian Aerodrome,JHL,,CA,Albian Village,,57.2278,-111.419,America/Edmonton,
 Fort MacKay/Firebag Aerodrome,YFI,CYFI,CA,Suncor Energy Site,,57.28192,-111.09452,America/Edmonton,
 Fort MacKay/Horizon Airport,HZP,CYNR,CA,Fort Mackay,HZP,57.37,-111.7,America/Edmonton,
-Fort McMurray Airport,YMM,CYMM,CA,Fort McMurray,YMM,56.65333,-111.22194,America/Edmonton,1472.0
+Fort McMurray Airport,YMM,CYMM,CA,Fort McMurray,YMM,56.65333,-111.22194,America/Edmonton,1472
 Fort McMurray/Mildred Lake Airport,NML,,CA,Fort McMurray,,57.05488,-111.57286,America/Edmonton,
 Fort Mcpherson Airport,ZFM,CZFM,CA,Fort Mcpherson,ZFM,67.4075,-134.86056,America/Yellowknife,
 Fort Providence Airport,,CYJP,CA,Fort Providence,,61.31667,-117.6,America/Yellowknife,
 Fort Reliance Seaplance Base,YFL,,CA,Fort Reliance,,62.71596,-109.16153,America/Yellowknife,
 Fort Resolution Airport,YFR,CYFR,CA,Fort Resolution,YFR,61.18083,-113.68972,America/Yellowknife,
 Fort Severn Airport,YER,CYER,CA,Fort Severn,YER,56.0189,-87.6761,America/Toronto,
-Fort Simpson Airport,YFS,CYFS,CA,Fort Simpson,YFS,61.76015,-121.23653,America/Yellowknife,295.0
-Fort Smith Airport,YSM,CYSM,CA,Fort Smith,YSM,60.02028,-111.96194,America/Yellowknife,429.0
+Fort Simpson Airport,YFS,CYFS,CA,Fort Simpson,YFS,61.76015,-121.23653,America/Yellowknife,295
+Fort Smith Airport,YSM,CYSM,CA,Fort Smith,YSM,60.02028,-111.96194,America/Yellowknife,429
 Fort St. James (Perison) Airport,,CYJM,CA,Fort St. James,,54.3969,-124.26267,America/Vancouver,
-Fort St. John Airport,YXJ,CYXJ,CA,Fort Saint John,YXJ,56.23806,-120.74028,America/Dawson_Creek,886.0
-Fredericton International Airport,YFC,CYFC,CA,Fredericton,YFC,45.86999,-66.53217,America/Moncton,804.0
+Fort St. John Airport,YXJ,CYXJ,CA,Fort Saint John,YXJ,56.23806,-120.74028,America/Dawson_Creek,886
+Fredericton International Airport,YFC,CYFC,CA,Fredericton,YFC,45.86999,-66.53217,America/Moncton,804
 Gahcho Kue Aerodrome,GHK,,CA,,,63.43362,-109.20067,America/Yellowknife,
 Gameti/Rae Lakes Airport,YRA,CYRA,CA,Gamètì,YRA,64.11599,-117.30958,America/Yellowknife,
-Gander International Airport,YQX,CYQX,CA,Gander,YQX,48.94483,-54.56081,America/St_Johns,416.0
+Gander International Airport,YQX,CYQX,CA,Gander,YQX,48.94483,-54.56081,America/St_Johns,416
 Ganges Water Aerodrome,YGG,,CA,Duncan,DUQ,48.85344,-123.49694,America/Vancouver,
 Gatineau-Ottawa Executive Airport,YND,CYND,CA,Gatineau,YND,45.52169,-75.56359,America/Toronto,
 Geraldton (Greenstone Regional) Airport,YGQ,CYGQ,CA,Geraldton,YGQ,49.77833,-86.93945,America/Toronto,
 Gillam Airport,YGX,CYGX,CA,Gillam,YGX,56.35739,-94.71116,America/Winnipeg,
 Gimli Industrial Park Airport,YGM,CYGM,CA,Gimli,,50.62806,-97.04333,America/Winnipeg,
-Gjoa Haven Airport,YHK,CYHK,CA,Gjoa Haven,YHK,68.63556,-95.84972,America/Cambridge_Bay,268.0
+Gjoa Haven Airport,YHK,CYHK,CA,Gjoa Haven,YHK,68.63556,-95.84972,America/Cambridge_Bay,268
 Goderich Airport,,CYGD,CA,Goderich,,43.76589,-81.70858,America/Toronto,
 Gods Lake Narrows Airport,YGO,CYGO,CA,Gods Lake Narrows,YGO,54.5589,-94.4914,America/Winnipeg,
 Gods River Airport,ZGI,CZGI,CA,Gods River,ZGI,54.8397,-94.0786,America/Winnipeg,
@@ -205,29 +205,29 @@ Golden Airport,,CYGE,CA,Golden,,51.29917,-116.98222,America/Edmonton,
 Gore Bay-Manitoulin Airport,YZE,CYZE,CA,Gore Bay,,45.88391,-82.5708,America/Toronto,
 Gorge Harbour Seaplane Base,YGE,,CA,Gorge Harbour,YGE,50.0613,-124.97558,America/Vancouver,
 Grand Forks Airport,ZGF,CZGF,CA,Grand Forks,,49.0156,-118.431,America/Vancouver,
-Grande Cache Airport,YGC,,CA,,,53.23,-119.0,America/Edmonton,
-Grande Prairie Airport,YQU,CYQU,CA,Grande Prairie,YQU,55.17814,-118.8804,America/Edmonton,1048.0
+Grande Cache Airport,YGC,,CA,,,53.23,-119,America/Edmonton,
+Grande Prairie Airport,YQU,CYQU,CA,Grande Prairie,YQU,55.17814,-118.8804,America/Edmonton,1048
 Great Bear Lake Airport,DAS,,CA,Great Bear Lake,,66.70279,-119.71536,America/Yellowknife,
-Greater Moncton International Airport,YQM,CYQM,CA,Moncton,YQM,46.11311,-64.68557,America/Moncton,1571.0
-Greater Sudbury Airport,YSB,CYSB,CA,Sudbury,YSB,46.625,-80.79889,America/Toronto,857.0
+Greater Moncton International Airport,YQM,CYQM,CA,Moncton,YQM,46.11311,-64.68557,America/Moncton,1571
+Greater Sudbury Airport,YSB,CYSB,CA,Sudbury,YSB,46.625,-80.79889,America/Toronto,857
 "Green Island Light Station - Heliport, B. C.",,CWNJ,CA,,,54.56778,-130.70572,America/Whitehorse,
 Greenway Sound Seaplane Base,YGN,CYGN,CA,Broughton Island,YGN,50.84015,-126.77261,America/Vancouver,
-Grise Fiord Airport,YGZ,CYGZ,CA,Grise Fiord,YGZ,76.42552,-82.9073,America/Iqaluit,54.0
+Grise Fiord Airport,YGZ,CYGZ,CA,Grise Fiord,YGZ,76.42552,-82.9073,America/Iqaluit,54
 Haines Junction Airport,YHT,CYHT,CA,Haines Junction,,60.7892,-137.54601,America/Whitehorse,
 Hakai Pass Seaplane Base,YHC,,CA,,,51.73686,-128.1241,America/Vancouver,
-Halifax (Queen Elizabeth II Health Science Centre) Heliport,,CHQE,CA,Halifax,,44.6459410125,-63.5865309834,America/Halifax,
+Halifax (Queen Elizabeth II Health Science Centre) Heliport,,CHQE,CA,Halifax,,44.64594101,-63.58653098,America/Halifax,
 Halifax South End Heliport,YWF,,CA,Halifax,YHZ,44.62547,-63.56343,America/Halifax,
-Halifax Stanfield International Airport,YHZ,CYHZ,CA,Halifax,YHZ,44.88392,-63.51171,America/Halifax,6279.0
-Hall Beach Airport,YUX,CYUX,CA,Sanirajak,YUX,68.77611,-81.24361,America/Iqaluit,135.0
+Halifax Stanfield International Airport,YHZ,CYHZ,CA,Halifax,YHZ,44.88392,-63.51171,America/Halifax,6279
+Hall Beach Airport,YUX,CYUX,CA,Sanirajak,YUX,68.77611,-81.24361,America/Iqaluit,135
 Hardisty Airport,,CEA5,CA,Hardisty,,52.646516,-111.379391,America/Edmonton,
 Hartley Bay Water Aerodrome,YTB,,CA,,,53.42329,-129.25067,America/Vancouver,
 Hatchet Lake Airport,YDJ,,CA,Hatchet Lake,,58.66225,-103.54134,America/Regina,
 Havre Saint-Pierre Airport,YGV,CYGV,CA,Havre-Saint-Pierre,YGV,50.28194,-63.61139,America/Toronto,
-Hay River/Merlyn Carter Airport,YHY,CYHY,CA,Hay River,YHY,60.83972,-115.78278,America/Yellowknife,294.0
+Hay River/Merlyn Carter Airport,YHY,CYHY,CA,Hay River,YHY,60.83972,-115.78278,America/Yellowknife,294
 Hearst (Rene Fontaine) Municipal Airport,YHF,CYHF,CA,Hearst,,49.7142,-83.6861,America/Toronto,
 Helmet,,CBH2,CA,Helmet,,59.5,-120.938889,America/Vancouver,
 Herschel Island Field,ZHH,ZHZH,CA,Herschel Island (Yukon Territory),,69.548229,-139.091608,America/Dawson,
-High Level Airport,YOJ,CYOJ,CA,High Level,YOJ,58.62139,-117.16472,America/Edmonton,160.0
+High Level Airport,YOJ,CYOJ,CA,High Level,YOJ,58.62139,-117.16472,America/Edmonton,160
 High Prairie Airport,ZHP,CZHP,CA,High Prairie,,55.39361,-116.47528,America/Edmonton,
 Hinton/Jasper-Hinton Airport,YJP,,CA,Hinton,,53.32042,-117.75164,America/Edmonton,
 Hope Aerodrome,YHE,CYHE,CA,Hope,YCW,49.36882,-121.4945,America/Vancouver,
@@ -238,25 +238,25 @@ Hornepayne Municipal Airport,YHN,CYHN,CA,Hornepayne,YHN,49.1931,-84.7589,America
 Houston Airport,ZHO,,CA,,,54.43808,-126.77789,America/Vancouver,
 Hudson Bay Airport,YHB,CYHB,CA,Hudson Bay,YHB,52.81667,-102.31139,America/Regina,
 Hudson's Hope Airport,YNH,CYNH,CA,Hudson's Hope,,56.03388,-121.98635,America/Dawson_Creek,
-Igloolik Airport,YGT,CYGT,CA,Igloolik,YGT,69.365,-81.81746,America/Iqaluit,188.0
+Igloolik Airport,YGT,CYGT,CA,Igloolik,YGT,69.365,-81.81746,America/Iqaluit,188
 Ignace Municipal Airport,ZUC,CZUC,CA,Ignace,,49.4297,-91.7178,America/Winnipeg,
 Ile-a-la-Crosse Airport,,CJF3,CA,Ile-a-la-Crosse,,55.486824,-107.927378,America/Regina,
-Iles-de-la-Madeleine Airport,YGR,CYGR,CA,Les Îles-de-la-Madeleine,YGR,47.42472,-61.77806,America/Halifax,427.0
+Iles-de-la-Madeleine Airport,YGR,CYGR,CA,Les Îles-de-la-Madeleine,YGR,47.42472,-61.77806,America/Halifax,427
 Ilford Airport,ILF,CZBD,CA,Ilford,ILF,56.05148,-95.61401,America/Winnipeg,
-Inukjuak Airport,YPH,CYPH,CA,Inukjuak,YPH,58.46944,-78.08052,America/Toronto,270.0
-Inuvik (Mike Zubko) Airport,YEV,CYEV,CA,Inuvik,YEV,68.30417,-133.48278,America/Inuvik,580.0
-Iqaluit Airport,YFB,CYFB,CA,Iqaluit,YFB,63.75503,-68.55254,America/Iqaluit,1741.0
+Inukjuak Airport,YPH,CYPH,CA,Inukjuak,YPH,58.46944,-78.08052,America/Toronto,270
+Inuvik (Mike Zubko) Airport,YEV,CYEV,CA,Inuvik,YEV,68.30417,-133.48278,America/Inuvik,580
+Iqaluit Airport,YFB,CYFB,CA,Iqaluit,YFB,63.75503,-68.55254,America/Iqaluit,1741
 Island Lake Airport,YIV,CYIV,CA,Island Lake,YIV,53.85691,-94.65383,America/Winnipeg,
-Ivujivik Airport,YIK,CYIK,CA,Ivujivik,YIK,62.41733,-77.92528,America/Toronto,270.0
+Ivujivik Airport,YIK,CYIK,CA,Ivujivik,YIK,62.41733,-77.92528,America/Toronto,270
 Jasper airport,YJA,CYJA,CA,Jasper,YJA,52.99629,-118.0602,America/Edmonton,
-Jean Lesage International Airport,YQB,CYQB,CA,Quebec,YQB,46.79227,-71.38431,America/Toronto,3723.0
+Jean Lesage International Airport,YQB,CYQB,CA,Quebec,YQB,46.79227,-71.38431,America/Toronto,3723
 Jenpeg Airport,ZJG,CZJG,CA,Jenpeg,,54.5189,-98.0461,America/Winnipeg,
-John C. Munro Hamilton International Airport,YHM,CYHM,CA,Hamilton,YHM,43.17094,-79.92914,America/Toronto,2379.0
+John C. Munro Hamilton International Airport,YHM,CYHM,CA,Hamilton,YHM,43.17094,-79.92914,America/Toronto,2379
 Johnson Point Airport,YUN,,CA,,,72.76805,-118.49784,America/Yellowknife,
-Kamloops Airport,YKA,CYKA,CA,Kamloops,YKA,50.70222,-120.44444,America/Vancouver,1514.0
-Kangiqsualujjuaq Georges River Airport,XGR,CYLU,CA,Kangiqsualujjuaq,XGR,58.70973,-65.99267,America/Iqaluit,251.0
-Kangiqsujuaq (Wakeham Bay) Airport,YWB,CYKG,CA,Kangiqsujuaq,YWB,61.58853,-71.92951,America/Toronto,270.0
-Kangirsuk Airport,YKG,CYAS,CA,Kangirsuk,YKG,60.02305,-70.00321,America/Toronto,328.0
+Kamloops Airport,YKA,CYKA,CA,Kamloops,YKA,50.70222,-120.44444,America/Vancouver,1514
+Kangiqsualujjuaq Georges River Airport,XGR,CYLU,CA,Kangiqsualujjuaq,XGR,58.70973,-65.99267,America/Iqaluit,251
+Kangiqsujuaq (Wakeham Bay) Airport,YWB,CYKG,CA,Kangiqsujuaq,YWB,61.58853,-71.92951,America/Toronto,270
+Kangirsuk Airport,YKG,CYAS,CA,Kangirsuk,YKG,60.02305,-70.00321,America/Toronto,328
 Kapuskasing Airport,YYU,CYYU,CA,Kapuskasing,YYU,49.41389,-82.4675,America/Toronto,
 Kasabonika Airport,XKS,CYAQ,CA,Kasabonika,XKS,53.5247,-88.6428,America/Winnipeg,
 Kasba Lake Airport,YDU,,CA,Kasba Lake,,60.29183,-102.50175,America/Yellowknife,
@@ -264,31 +264,31 @@ Kashechewan Airport,ZKE,CZKE,CA,Kashechewan,ZKE,52.2825,-81.6778,America/Toronto
 Kattiniq/Donaldson Airport,YAU,,CA,Kattiniq,,61.662,-73.32129,America/Toronto,
 Keewaywin Airport,KEW,CPV8,CA,Keewaywin,KEW,52.99158,-92.83738,America/Winnipeg,
 Kegaska Airport,ZKG,,CA,Côte-Nord-du-Golfe-du-Saint-Laurent,ZKG,50.1958,-61.26577,America/Blanc-Sablon,
-Kelowna International Airport,YLW,CYLW,CA,Kelowna,YLW,49.95611,-119.37778,America/Vancouver,5744.0
+Kelowna International Airport,YLW,CYLW,CA,Kelowna,YLW,49.95611,-119.37778,America/Vancouver,5744
 Kelsey Airport,KES,CZEE,CA,Kelsey,,56.0375,-96.5097,America/Winnipeg,
 Kemano Heliport,XKO,,CA,,,53.55877,-127.94643,America/Vancouver,
-Kenora Airport,YQK,CYQK,CA,Kenora,YQK,49.78833,-94.36306,America/Winnipeg,78.0
+Kenora Airport,YQK,CYQK,CA,Kenora,YQK,49.78833,-94.36306,America/Winnipeg,78
 Key Lake Airport,YKJ,CYKJ,CA,Key Lake,YKJ,57.25407,-105.62183,America/Regina,
 Killarney Airport,,CPT2,CA,,,45.97719,-81.49598,America/Toronto,
-Kimmirut Airport,YLC,CYLC,CA,Kimmirut,YLC,62.84845,-69.87841,America/Iqaluit,81.0
+Kimmirut Airport,YLC,CYLC,CA,Kimmirut,YLC,62.84845,-69.87841,America/Iqaluit,81
 Kincardine Airport,YKD,CYKM,CA,Kincardine,,44.20116,-81.60653,America/Toronto,
 Kindersley Regional Airport,YKY,CYKY,CA,Kindersley,YKY,51.5183,-109.17535,America/Regina,
 Kingfisher Lake Airport,KIF,CNM5,CA,Kingfisher Lake,KIF,53.0125,-89.8553,America/Winnipeg,
 Kingston/Norman Rogers Airport,YGK,CYGK,CA,Kingston,YGK,44.22528,-76.59694,America/Toronto,
 Kirby Lake Aerodrome,KFM,,CA,Kirby Lake,CFM,55.35578,-110.63467,America/Edmonton,
 Kirkland Lake Airport,YKX,CYKX,CA,Kirkland Lake,,48.2103,-79.9814,America/Toronto,
-Kitchener/Waterloo Airport,YKF,CYKF,CA,Breslau,YKF,43.45747,-80.38593,America/Toronto,454.0
+Kitchener/Waterloo Airport,YKF,CYKF,CA,Breslau,YKF,43.45747,-80.38593,America/Toronto,454
 Kitkatla Seaplane Base,YKK,,CA,Kitkatla,,53.79561,-130.4381,America/Vancouver,
 Kiwigana Lodge Heliport,DKL,,CA,,,59.24157,-122.92216,America/Fort_Nelson,
 Klemtu Seaplane Base,YKT,,CA,Klemtu,YKT,52.594,-128.52103,America/Vancouver,
 Knee Lake Airport,YKE,,CA,Knee Lake,,54.91728,-94.79553,America/Winnipeg,
-Kugaaruk Airport,YBB,CYBB,CA,Kugaaruk,YUF,68.53444,-89.80806,America/Cambridge_Bay,187.0
-Kugluktuk Airport,YCO,CYCO,CA,Kugluktuk,YCO,67.81667,-115.14389,America/Cambridge_Bay,161.0
-Kuujjuaq Airport,YVP,CYVP,CA,Kuujjuaq,YVP,58.09228,-68.42487,America/Toronto,984.0
-Kuujjuarapik Airport,YGW,CYGW,CA,Kuujjuarapik,YGW,55.28338,-77.76441,America/Toronto,350.0
+Kugaaruk Airport,YBB,CYBB,CA,Kugaaruk,YUF,68.53444,-89.80806,America/Cambridge_Bay,187
+Kugluktuk Airport,YCO,CYCO,CA,Kugluktuk,YCO,67.81667,-115.14389,America/Cambridge_Bay,161
+Kuujjuaq Airport,YVP,CYVP,CA,Kuujjuaq,YVP,58.09228,-68.42487,America/Toronto,984
+Kuujjuarapik Airport,YGW,CYGW,CA,Kuujjuarapik,YGW,55.28338,-77.76441,America/Toronto,350
 La Grande-3 Airport,YAR,CYAD,CA,La Grande-3,YAR,53.572,-76.19,America/Toronto,
 La Grande-4 Airport,YAH,CYAH,CA,La Grande-4,YAH,53.75409,-73.67929,America/Toronto,
-La Grande Riviere Airport,YGL,CYGL,CA,La Grande Rivière,YGL,53.62528,-77.70417,America/Toronto,212.0
+La Grande Riviere Airport,YGL,CYGL,CA,La Grande Rivière,YGL,53.62528,-77.70417,America/Toronto,212
 La Macaza / Mont-Tremblant International Inc Airport,YTM,CYFJ,CA,La Macaza,YTM,46.4094,-74.78,America/Toronto,
 La Romaine Airport,ZGS,,CA,Le Golfe-du-Saint-Laurent,ZGS,50.25905,-60.66905,America/Blanc-Sablon,
 La Ronge (Barber Field) Airport,YVC,CYVC,CA,La Ronge,YVC,55.15139,-105.26194,America/Regina,
@@ -305,12 +305,12 @@ Lansdowne House Airport,YLH,CYLH,CA,Lansdowne House,YLH,52.1956,-87.9342,America
 Laurie River Airport,LRQ,,CA,Laurie River,,56.24986,-101.30343,America/Winnipeg,
 Leaf Rapids Airport,YLR,CYLR,CA,Leaf Rapids,,56.5133,-99.9853,America/Winnipeg,
 Lebel-sur-Quevillon Airport,YLS,,CA,Lebel-sur-Quévillon,,49.02965,-77.01622,America/Toronto,
-Lethbridge Airport,YQL,CYQL,CA,Lethbridge,YQL,49.62996,-112.79101,America/Edmonton,531.0
+Lethbridge Airport,YQL,CYQL,CA,Lethbridge,YQL,49.62996,-112.79101,America/Edmonton,531
 Lillooet Airport,,CYLI,CA,Lillooet,,50.67354,-121.89194,America/Vancouver,
 Little Grand Rapids Airport,ZGR,CZGR,CA,Little Grand Rapids,ZGR,52.0456,-95.4658,America/Winnipeg,
 Liverpool South Shore Regional Airport,,CYAU,CA,Greenfield,,44.2303,-64.8561,America/Halifax,
-Lloydminster Airport,YLL,CYLL,CA,Lloydminster,YLL,53.30917,-110.0725,America/Edmonton,152.0
-London International Airport,YXU,CYXU,CA,London,YXU,43.02987,-81.14892,America/Toronto,955.0
+Lloydminster Airport,YLL,CYLL,CA,Lloydminster,YLL,53.30917,-110.0725,America/Edmonton,152
+London International Airport,YXU,CYXU,CA,London,YXU,43.02987,-81.14892,America/Toronto,955
 Longstaff Bluff Airport,,CYUV,CA,,,68.93333,-75.28333,America/Iqaluit,
 Lourdes-de-Blanc-Sablon Airport,YBX,CYBX,CA,Blanc-Sablon,YBX,51.44361,-57.18528,America/Blanc-Sablon,
 Lt. Col W.G. (Billy) Barker VC Airport,YDN,CYDN,CA,Dauphin,YDN,51.10083,-100.0525,America/Winnipeg,
@@ -328,36 +328,36 @@ Maple Bay Seaplane Base,YAQ,,CA,Maple Bay,YAQ,48.80274,-123.6004,America/Vancouv
 Marathon Airport,YSP,CYSP,CA,Marathon,,48.7553,-86.3444,America/Toronto,
 Mary River,YMV,,CA,Mary River,YMV,71.32614,-79.37383,America/Iqaluit,
 Mary's Harbour Airport,YMH,CYMH,CA,Mary's Harbour,YMH,52.3031,-55.84443,America/St_Johns,
-Masset Airport,ZMT,CZMT,CA,Masset,ZMT,54.02783,-132.12624,America/Vancouver,84.0
+Masset Airport,ZMT,CZMT,CA,Masset,ZMT,54.02783,-132.12624,America/Vancouver,84
 Matagami Airport,YNM,CYNM,CA,Matagami,YNM,49.76167,-77.80278,America/Toronto,
 Matane Airport,YME,CYME,CA,Matane,,48.8569,-67.4533,America/Toronto,
 Mayne Island Waterdrome,YAV,,CA,Duncan,DUQ,48.85221,-123.30222,America/Vancouver,
 Mayo Airport,YMA,CYMA,CA,Mayo,YMA,63.61667,-135.86667,America/Whitehorse,
 Meadow Lake Airport,YLJ,CYLJ,CA,Meadow Lake,YLJ,54.12274,-108.51441,America/Regina,
-Medicine Hat Airport,YXH,CYXH,CA,Medicine Hat,YXH,50.01889,-110.72083,America/Edmonton,509.0
+Medicine Hat Airport,YXH,CYXH,CA,Medicine Hat,YXH,50.01889,-110.72083,America/Edmonton,509
 Melfort (Miller Field) Aerodrome,,CJZ3,CA,Melfort,,52.866667,-104.7,America/Regina,
 Merritt Airport,YMB,,CA,Merritt,,50.1236,-120.74365,America/Vancouver,
-Michel-Pouliot Gaspe Airport,YGP,CYGP,CA,Gaspé,YGP,48.77528,-64.47861,America/Toronto,228.0
+Michel-Pouliot Gaspe Airport,YGP,CYGP,CA,Gaspé,YGP,48.77528,-64.47861,America/Toronto,228
 Midland/Huronia Airport,,CYEE,CA,Midland,,44.68565,-79.93026,America/Toronto,
 Mingan Airport,YLP,,CA,Longue-Pointe-de-Mingan,,50.28689,-64.15226,America/Toronto,
 Miramichi Airport,YCH,CYCH,CA,Miramichi,YCH,47.00778,-65.44917,America/Moncton,
 Molson Lake,,CKJ8,CA,Molson Lake,,54.330556,-97.111111,America/Winnipeg,
-Mont-Joli Airport,YYY,CYYY,CA,Mont-Joli,YYY,48.60485,-68.21209,America/Toronto,238.0
+Mont-Joli Airport,YYY,CYYY,CA,Mont-Joli,YYY,48.60485,-68.21209,America/Toronto,238
 Montague Harbour Seaplane Base,YMF,,CA,Galiano Island,YMF,48.90039,-123.41835,America/Vancouver,
-Montreal-Mirabel International Airport,YMX,CYMX,CA,Montréal,YMQ,45.68194,-74.00528,America/Toronto,754.0
-Montreal-Pierre Elliott Trudeau International Airport,YUL,CYUL,CA,Montreal,YMQ,45.46106,-73.75019,America/Toronto,35190.0
-Montreal/Saint-Hubert Airport,YHU,CYHU,CA,Montréal,YMQ,45.51621,-73.42069,America/Toronto,360.0
+Montreal-Mirabel International Airport,YMX,CYMX,CA,Montréal,YMQ,45.68194,-74.00528,America/Toronto,754
+Montreal-Pierre Elliott Trudeau International Airport,YUL,CYUL,CA,Montreal,YMQ,45.46106,-73.75019,America/Toronto,35190
+Montreal/Saint-Hubert Airport,YHU,CYHU,CA,Montréal,YMQ,45.51621,-73.42069,America/Toronto,360
 Moose Lake Airport,YAD,,CA,,,53.70429,-100.34277,America/Winnipeg,
-Moosonee Airport,YMO,CYMO,CA,Moosonee,YMO,51.29111,-80.60778,America/Toronto,38.0
+Moosonee Airport,YMO,CYMO,CA,Moosonee,YMO,51.29111,-80.60778,America/Toronto,38
 Mould Bay Airport,YMD,CYMD,CA,,,76.23908,-119.31873,America/Yellowknife,
-Mount Belcher Heliport,,CMBH,CA,Mount Belcher,,48.8328018188,-123.5049972534,America/Vancouver,
+Mount Belcher Heliport,,CMBH,CA,Mount Belcher,,48.83280182,-123.5049973,America/Vancouver,
 Muncho Lake/Mile 462 Water Aerodrome,,,CA,,,59.00906,-125.77363,America/Fort_Nelson,
 Muskoka Airport,YQA,CYQA,CA,Gravenhurst,YQA,44.97732,-79.30713,America/Toronto,
 Muskrat Dam Airport,MSA,CZMD,CA,Muskrat Dam,MSA,53.4414,-91.7628,America/Winnipeg,
 Nain Airport,YDP,CYDP,CA,Nain,YDP,56.54981,-61.68308,America/Goose_Bay,
 Nakina Airport,YQN,CYQN,CA,Nakina,YQN,50.1828,-86.6964,America/Toronto,
 Namu Seaplane Base,ZNU,,CA,,,51.85801,-127.87208,America/Vancouver,
-Nanaimo Airport,YCD,CYCD,CA,Nanaimo,YCD,49.05233,-123.87017,America/Vancouver,1588.0
+Nanaimo Airport,YCD,CYCD,CA,Nanaimo,YCD,49.05233,-123.87017,America/Vancouver,1588
 Nanaimo Harbour Water Airport,ZNA,,CA,Nanaimo,YCD,49.16936,-123.93552,America/Vancouver,
 Nanisivik Airport,YSR,CYSR,CA,Nanisivik,YSR,73.75,-84.5,America/Toronto,
 Natashquan Airport,YNA,CYNA,CA,Natashquan,YNA,50.19,-61.78917,America/Toronto,
@@ -366,57 +366,57 @@ Naujaat Airport,YUT,CYUT,CA,Repulse Bay,YUT,66.52366,-86.22808,America/Rankin_In
 Nejanilini Lake Airport,,CYNN,CA,Nejanilini Lake,,59.48707,-97.78107,America/Winnipeg,
 Nelson Airport,,CZNL,CA,Nelson,,49.49263,-117.30343,America/Vancouver,
 Nemiscau Airport,YNS,CYHH,CA,Nemiscau,YNS,51.69105,-76.13621,America/Toronto,
-Nipawin Airport,,CYBU,CA,Nipawin,,53.33333,-104.0,America/Regina,
+Nipawin Airport,,CYBU,CA,Nipawin,,53.33333,-104,America/Regina,
 Nootka Lightstation Helipad,,CWCV,CA,San Rafael Island,,49.59225,-126.616383,America/Vancouver,
-Norman Wells Airport,YVQ,CYVQ,CA,Norman Wells,YVQ,65.28107,-126.79793,America/Yellowknife,349.0
+Norman Wells Airport,YVQ,CYVQ,CA,Norman Wells,YVQ,65.28107,-126.79793,America/Yellowknife,349
 North Battleford Airport,YQW,CYQW,CA,North Battleford,YQW,52.76917,-108.24361,America/Regina,
 "NORTH BAY (ARTIC RADIO RCOS), ON",,CZNB,CA,,,46.366667,79.416667,Asia/Almaty,
-North Bay/Jack Garland Airport,YYB,CYYB,CA,North Bay,YYB,46.3631,-79.42403,America/Toronto,325.0
+North Bay/Jack Garland Airport,YYB,CYYB,CA,North Bay,YYB,46.3631,-79.42403,America/Toronto,325
 North Spirit Lake Airport,YNO,,CA,North Spirit Lake,YNO,52.49,-92.9711,America/Winnipeg,
 Northern Rockies Regional Airport,YYE,CYYE,CA,Fort Nelson,YYE,58.83693,-122.59965,America/Fort_Nelson,
-Northwest Regional Airport Terrace-Kitimat,YXT,CYXT,CA,Terrace,YXT,54.46851,-128.57622,America/Vancouver,1045.0
+Northwest Regional Airport Terrace-Kitimat,YXT,CYXT,CA,Terrace,YXT,54.46851,-128.57622,America/Vancouver,1045
 Norway House Airport,YNE,CYNE,CA,Norway House,YNE,53.95823,-97.84359,America/Winnipeg,
 Obre Lake/North of Sixty Airport,YDW,,CA,Obre Lake,,60.31513,-103.13252,America/Yellowknife,
 Ocean Falls Seaplane Base,ZOF,,CA,Ocean Falls,ZOF,52.35184,-127.69806,America/Vancouver,
 Ogoki Post Airport,YOG,CYKP,CA,Ogoki Post,YOG,51.6586,-85.9017,America/Toronto,
-Old Crow Airport,YOC,CYOC,CA,Old Crow,YOC,67.57056,-139.83917,America/Whitehorse,111.0
+Old Crow Airport,YOC,CYOC,CA,Old Crow,YOC,67.57056,-139.83917,America/Whitehorse,111
 One Hundred Mile House Airport,,CAV3,CA,,,51.6425,-121.30537,America/Vancouver,
 Opapimiskan Lake Airport,,CKM8,CA,Opapimiskan,,52.666667,-90.469444,America/Winnipeg,
 Opapimiskan Lake Airport,YBS,,CA,Opapimiskan Lake,,52.60834,-90.37568,America/Winnipeg,
 Opinaca,YOI,,CA,Éléonore Mine,,52.2219,-76.6125,America/Toronto,
 Oshawa Airport,YOO,CYOO,CA,Oshawa,YOO,43.9228,-78.895,America/Toronto,
 Ottawa Central Bus Station,XGE,,CA,Ottawa,YOW,45.4086,-75.7367,America/Toronto,
-Ottawa / Dwyer Hill Heliport,,CYDH,CA,Ottawa,,45.1305999756,-75.9483032227,America/Toronto,
-Ottawa Macdonald-Cartier International Airport,YOW,CYOW,CA,Ottawa,YOW,45.3225,-75.66917,America/Toronto,10293.0
+Ottawa / Dwyer Hill Heliport,,CYDH,CA,Ottawa,,45.13059998,-75.94830322,America/Toronto,
+Ottawa Macdonald-Cartier International Airport,YOW,CYOW,CA,Ottawa,YOW,45.3225,-75.66917,America/Toronto,10293
 Ottawa / Rockcliffe Airport,YRO,CYRO,CA,Ottawa,YOW,45.4603,-75.6461,America/Toronto,
-Ottawa / Rockcliffe Seaplane Base,TR7,,CA,Ottawa,,45.4638329461,-75.6425428391,America/Toronto,
+Ottawa / Rockcliffe Seaplane Base,TR7,,CA,Ottawa,,45.46383295,-75.64254284,America/Toronto,
 Owen Sound / Billy Bishop Regional Airport,YOS,CYOS,CA,Owen Sound,YOS,44.5903,-80.8375,America/Toronto,
 Oxford House Airport,YOH,CYOH,CA,Oxford House,YOH,54.9333,-95.2789,America/Winnipeg,
-Pangnirtung Airport,YXP,CYXP,CA,Pangnirtung,YXP,66.145,-65.71361,America/Iqaluit,267.0
+Pangnirtung Airport,YXP,CYXP,CA,Pangnirtung,YXP,66.145,-65.71361,America/Iqaluit,267
 Parent Airport,,CYPP,CA,Parent,,47.93131,-74.60912,America/Toronto,
 Parry Sound Area Municipal Airport,YPD,CNK4,CA,Parry Sound,YPD,45.25386,-79.82786,America/Toronto,
 Parry Sound/Frying Pan Island-Sans Souci Water Aerodrome,YSI,,CA,,,45.16694,-80.1326,America/Toronto,
 Paulatuk (Nora Aliqatchialuk Ruben) Airport,YPC,CYPC,CA,Paulatuk,YPC,69.36169,-124.07487,America/Yellowknife,
 Peace River Airport,YPE,CYPE,CA,Peace River,YPE,56.22727,-117.44878,America/Edmonton,
-Peawanuck Airport,YPO,CYPO,CA,Peawanuck,YPO,54.9881,-85.4433,America/Toronto,9.0
+Peawanuck Airport,YPO,CYPO,CA,Peawanuck,YPO,54.9881,-85.4433,America/Toronto,9
 Pelee Island Airport,YPT,CYPT,CA,Pelee Island,,41.77992,-82.67122,America/Toronto,
 Pemberton Airport,,CYPS,CA,Pemberton,,50.30217,-122.73934,America/Vancouver,
 Pembroke Airport,YTA,CYTA,CA,Pembroke,,45.8644,-77.2517,America/Toronto,
 Pender Harbour Waterdrome,YPT,,CA,,,49.62306,-124.02513,America/Vancouver,
-Penticton Regional Airport,YYF,CYYF,CA,Penticton,YYF,49.46306,-119.60222,America/Vancouver,504.0
+Penticton Regional Airport,YYF,CYYF,CA,Penticton,YYF,49.46306,-119.60222,America/Vancouver,504
 Petawawa Airport,YWA,CYWA,CA,Petawawa,,45.95222,-77.31917,America/Toronto,
 Peterborough Airport,YPQ,CYPQ,CA,Peterborough,YPQ,44.23164,-78.36123,America/Toronto,
 Pickle Lake Airport,YPL,CYPL,CA,Pickle Lake,YPL,51.44639,-90.21417,America/Toronto,
-Pikangikum Airport,YPM,CYPM,CA,Pikangikum,YPM,51.8197,-93.9733,America/Winnipeg,161.0
+Pikangikum Airport,YPM,CYPM,CA,Pikangikum,YPM,51.8197,-93.9733,America/Winnipeg,161
 Pikwitonei Airport,PIW,CZMN,CA,Pikwitonei,PIW,55.5889,-97.1642,America/Winnipeg,
 Pincher Creek Airport,WPC,CZPC,CA,Pincher Creek,,49.52056,-113.99722,America/Edmonton,
 Pinehouse Lake Airport,ZPO,CZPO,CA,Pinehouse Lake,,55.52739,-106.5824,America/Regina,
 Pitt Meadows Regional Airport,,CYPK,CA,Pitt Meadows,YLY,49.21563,-122.70947,America/Vancouver,
 Points North Landing Airport,YNL,CYNL,CA,Points North Landing,YNL,58.2767,-104.082,America/Regina,
-Pond Inlet Airport,YIO,CYIO,CA,Pond Inlet,YIO,72.68674,-77.97319,America/Iqaluit,161.0
+Pond Inlet Airport,YIO,CYIO,CA,Pond Inlet,YIO,72.68674,-77.97319,America/Iqaluit,161
 Poplar Hill Airport,YHP,CYHP,CA,Poplar Hill,YHP,52.1133,-94.2556,America/Winnipeg,
 Poplar River Airport,XPP,CZNG,CA,Poplar River,,52.99676,-97.27818,America/Winnipeg,
-Port Hardy Airport,YZT,CYZT,CA,Port Hardy,YZT,50.68056,-127.36667,America/Vancouver,101.0
+Port Hardy Airport,YZT,CYZT,CA,Port Hardy,YZT,50.68056,-127.36667,America/Vancouver,101
 Port Hope Simpson Airport,YHA,CYHA,CA,Port Hope Simpson,YHA,52.5281,-56.2861,America/St_Johns,
 Port McNeill Airport,YMP,,CA,Port McNeill,YMP,50.57195,-127.02676,America/Vancouver,
 Port-Menier Airport,YPN,CYPN,CA,Port-Menier,YPN,49.83639,-64.28861,America/Toronto,
@@ -425,32 +425,32 @@ Portage la Prairie Southport Airport,YPG,CYPG,CA,Portage la Prairie,,49.90306,-9
 Poste Montagnais Airport,,CSF3,CA,Poste Montagnais,,51.893759,-65.723213,America/Toronto,
 Postville Airport,YSO,CCD4,CA,Postville,YSO,54.91031,-59.78569,America/Goose_Bay,
 Powell Lake,WPL,,CA,Powell River,,50.1833,-124.4,America/Vancouver,
-Powell River Airport,YPW,CYPW,CA,Powell River,YPW,49.83444,-124.50162,America/Vancouver,439.0
+Powell River Airport,YPW,CYPW,CA,Powell River,YPW,49.83444,-124.50162,America/Vancouver,439
 Primrose Airport,PFM,,CA,Primrose,,55.39026,-111.1193,America/Edmonton,
 Prince Albert (Glass Field) Airport,YPA,CYPA,CA,Prince Albert,YPA,53.21577,-105.67846,America/Regina,
-Prince George Airport,YXS,CYXS,CA,Prince George,YXS,53.88737,-122.676,America/Vancouver,1769.0
+Prince George Airport,YXS,CYXS,CA,Prince George,YXS,53.88737,-122.676,America/Vancouver,1769
 Prince Rupert Airport,YPR,CYPR,CA,Prince Rupert,YPR,54.28611,-130.44472,America/Vancouver,
 Prince Rupert/Seal Cove Seaplane Base,ZSW,CZSW,CA,Prince Rupert,,54.33095,-130.28179,America/Vancouver,
 Princeton Aerodrome,,CYDC,CA,Town of Princeton,,49.46806,-120.51139,America/Vancouver,
 Pukatawagan Airport,XPK,CZFG,CA,Pukatawagan,,55.7492,-101.266,America/Winnipeg,
 Puntzi Mountain Airport,,CYPU,CA,Puntzi Mountain,,52.11667,-124.13333,America/Vancouver,
 Puvirnituq Airport,YPX,CYPX,CA,Puvirnituq,YPX,60.05056,-77.28694,America/Toronto,
-Qikiqtarjuaq Airport,YVM,CYVM,CA,Qikiqtarjuaq,YVM,67.54587,-64.03304,America/Iqaluit,133.0
+Qikiqtarjuaq Airport,YVM,CYVM,CA,Qikiqtarjuaq,YVM,67.54587,-64.03304,America/Iqaluit,133
 Qualicum Beach,,CAT4,CA,Qualicum Beach,,49.372222,-124.488889,America/Vancouver,
 Qualicum Beach Airport,XQU,,CA,Qualicum Beach,XQU,49.33944,-124.39643,America/Vancouver,
-Quaqtaq Airport,YQC,CYHA,CA,Quaqtaq,YQC,61.04721,-69.61843,America/Toronto,270.0
+Quaqtaq Airport,YQC,CYHA,CA,Quaqtaq,YQC,61.04721,-69.61843,America/Toronto,270
 Quatsino Light Station Helipad,,CWIF,CA,Kains Island,,50.441691,-128.031474,America/Vancouver,
 Queen Charlotte Seaplane Base,ZQS,,CA,,,53.01189,-131.95533,America/Vancouver,
 Quesnel Airport,YQZ,CYQZ,CA,Quesnel,YQZ,53.02611,-122.51028,America/Vancouver,
 Rainbow Lake Airport,YOP,CYOP,CA,Rainbow Lake,YOP,58.4914,-119.408,America/Edmonton,
-Rankin Inlet Airport,YRT,CYRT,CA,Rankin Inlet,YRT,62.81027,-92.11332,America/Rankin_Inlet,430.0
+Rankin Inlet Airport,YRT,CYRT,CA,Rankin Inlet,YRT,62.81027,-92.11332,America/Rankin_Inlet,430
 Red Deer Regional Airport,YQF,CYQF,CA,Springbrook,YQF,52.1801,-113.89269,America/Edmonton,
-Red Lake Airport,YRL,CYRL,CA,Red Lake,YRL,51.06694,-93.79306,America/Winnipeg,465.0
+Red Lake Airport,YRL,CYRL,CA,Red Lake,YRL,51.06694,-93.79306,America/Winnipeg,465
 Red Sucker Lake Airport,YRS,CYRS,CA,Red Sucker Lake,YRS,54.1672,-93.5572,America/Winnipeg,
 Reef Hueston Helicopter Landing,XVQ,,CA,Streatham,,53.823101,-126.172228,America/Vancouver,
 Refuge Cove Sea Plane Base,YRC,,CA,Desolation Sound,YBL,50.12323,-124.84045,America/Vancouver,
-Regina,YQR,CYQR,CA,Regina,YQR,50.43194,-104.66583,America/Regina,2923.0
-Resolute Bay Airport,YRB,CYRB,CA,Resolute Bay,YRB,74.71694,-94.96944,America/Resolute,161.0
+Regina,YQR,CYQR,CA,Regina,YQR,50.43194,-104.66583,America/Regina,2923
+Resolute Bay Airport,YRB,CYRB,CA,Resolute Bay,YRB,74.71694,-94.96944,America/Resolute,161
 Revelstoke Airport,YRV,CYRV,CA,Revelstoke,,50.96116,-118.18229,America/Vancouver,
 Rigolet Airport,YRG,CCZ2,CA,Rigolet,YRG,54.17937,-58.45748,America/Goose_Bay,
 Rimouski Airport,YXK,CYXK,CA,Rimouski,YXK,48.4781,-68.4969,America/Toronto,
@@ -461,38 +461,38 @@ Rocky Mountain House Airport,YRM,CYRM,CA,Rocky Mountain House,,52.42972,-114.904
 Roland-Desourdy Airport,ZBM,CZBM,CA,Bromont,,45.2908,-72.7414,America/Toronto,
 Ross River Airport,XRR,CYDM,CA,Ross River,,61.97172,-132.42959,America/Whitehorse,
 Round Lake (Weagamow Lake) Airport,ZRJ,CZRJ,CA,Round Lake,ZRJ,52.9436,-91.3128,America/Winnipeg,
-Rouyn-Noranda Airport,YUY,CYUY,CA,Rouyn-Noranda,YUY,48.20611,-78.83556,America/Toronto,149.0
+Rouyn-Noranda Airport,YUY,CYUY,CA,Rouyn-Noranda,YUY,48.20611,-78.83556,America/Toronto,149
 Sable Island Airport,YSA,,CA,Sable Island,,43.92955,-59.97763,America/Halifax,
 Sachigo Lake Airport,ZPB,CZPB,CA,Sachigo Lake,ZPB,53.8911,-92.1964,America/Winnipeg,
 Sachs Harbour (David Nasogaluak Jr. Saaryuaq) Airport,YSY,CYSY,CA,Sachs Harbour,YSY,71.99389,-125.2425,America/Yellowknife,
 Saglek Airport,YSV,,CA,Saglek,,58.474312,-62.653999,America/Goose_Bay,
-Saint Anthony Airport,YAY,CYAY,CA,St. Anthony,,51.3915,-56.08606,America/St_Johns,68.0
+Saint Anthony Airport,YAY,CYAY,CA,St. Anthony,,51.3915,-56.08606,America/St_Johns,68
 Saint-Augustin Airport,YIF,CYIF,CA,St-Augustin,YIF,51.2117,-58.6583,America/Blanc-Sablon,
 Saint-Georges Airport,,CYSG,CA,Saint-Georges,,46.096401,-70.714699,America/Toronto,
 Saint-Jean Airport,YJN,CYJN,CA,St Jean,YJN,45.2944,-73.2811,America/Toronto,
-Saint John Airport,YSJ,CYSJ,CA,Saint John,YSJ,45.32825,-65.89119,America/Moncton,503.0
+Saint John Airport,YSJ,CYSJ,CA,Saint John,YSJ,45.32825,-65.89119,America/Moncton,503
 Saint-Leonard Airport,YSL,CYSL,CA,Saint-Léonard,YSL,47.1575,-67.83472,America/Moncton,
 Sainte-Anne-des-Monts Aerodrome,,CYSZ,CA,Sainte-Anne-des-Monts,,49.12,-66.52883,America/Toronto,
-Salluit Airport,YZG,CYZG,CA,Salluit,YZG,62.1792,-75.66726,America/Toronto,270.0
+Salluit Airport,YZG,CYZG,CA,Salluit,YZG,62.1792,-75.66726,America/Toronto,270
 Salmon Arm Airport,YSN,CZAM,CA,Salmon Arm,,50.6828,-119.229,America/Vancouver,
-Sandspit Airport,YZP,CYZP,CA,Sandspit,YZP,53.25398,-131.81373,America/Vancouver,149.0
-Sandy Lake Airport,ZSJ,CZSJ,CA,Sandy Lake,ZSJ,53.0642,-93.3444,America/Winnipeg,161.0
-Sanikiluaq Airport,YSK,CYSK,CA,Sanikiluaq,YSK,56.53703,-79.24872,America/Iqaluit,76.0
+Sandspit Airport,YZP,CYZP,CA,Sandspit,YZP,53.25398,-131.81373,America/Vancouver,149
+Sandy Lake Airport,ZSJ,CZSJ,CA,Sandy Lake,ZSJ,53.0642,-93.3444,America/Winnipeg,161
+Sanikiluaq Airport,YSK,CYSK,CA,Sanikiluaq,YSK,56.53703,-79.24872,America/Iqaluit,76
 Sarnia Chris Hadfield Airport,YZR,CYZR,CA,Sarnia,YZR,42.99944,-82.30889,America/Toronto,
-Saskatoon John G. Diefenbaker International Airport,YXE,CYXE,CA,Saskatoon,YXE,52.17083,-106.69972,America/Regina,3203.0
+Saskatoon John G. Diefenbaker International Airport,YXE,CYXE,CA,Saskatoon,YXE,52.17083,-106.69972,America/Regina,3203
 Saugeen Municipal Airport,,CYHS,CA,Hanover,,44.15806,-81.06333,America/Toronto,
-Sault Ste. Marie Airport,YAM,CYAM,CA,Sault Ste Marie,YAM,46.485,-84.50944,America/Toronto,789.0
-Schefferville Airport,YKL,CYKL,CA,Schefferville,YKL,54.80528,-66.80528,America/Toronto,154.0
+Sault Ste. Marie Airport,YAM,CYAM,CA,Sault Ste Marie,YAM,46.485,-84.50944,America/Toronto,789
+Schefferville Airport,YKL,CYKL,CA,Schefferville,YKL,54.80528,-66.80528,America/Toronto,154
 Sechelt-Gibsons Airport,YHS,CAP3,CA,Sechelt,YHS,49.46144,-123.7186,America/Vancouver,
-Sept-Iles Airport,YZV,CYZV,CA,Sept-Îles,YZV,50.22333,-66.26556,America/Toronto,746.0
+Sept-Iles Airport,YZV,CYZV,CA,Sept-Îles,YZV,50.22333,-66.26556,America/Toronto,746
 Shamattawa Airport,ZTM,CZTM,CA,Shamattawa,ZTM,55.8656,-92.0814,America/Winnipeg,
 Shearwater Airport,YAW,CYAW,CA,Halifax,YHZ,44.63972,-63.49944,America/Halifax,
 Sherbrooke Airport,YSC,CYSC,CA,Sherbrooke,YSC,45.43861,-71.69139,America/Toronto,
 Silva Bay Seaplane Base,SYF,,CA,Gabriola Island,YVR,49.15241,-123.70112,America/Vancouver,
-Sioux Lookout Airport,YXL,CYXL,CA,Sioux Lookout,YXL,50.11389,-91.90528,America/Winnipeg,805.0
+Sioux Lookout Airport,YXL,CYXL,CA,Sioux Lookout,YXL,50.11389,-91.90528,America/Winnipeg,805
 Slate Island,YSS,,CA,,,48.5667,-86.75,America/Toronto,
 Slave Lake Airport,YZH,CYZH,CA,Slave Lake,YZH,55.29306,-114.77722,America/Edmonton,
-Smithers Airport,YYD,CYYD,CA,Smithers,YYD,54.82472,-127.18278,America/Vancouver,298.0
+Smithers Airport,YYD,CYYD,CA,Smithers,YYD,54.82472,-127.18278,America/Vancouver,298
 Smiths Falls-Montague Airport,YSH,CYSH,CA,Smiths Falls,YSH,44.9458,-75.9406,America/Toronto,
 Snap Lake Airport,YNX,,CA,Snap Lake Mine,,63.5936,-110.905,America/Yellowknife,
 South Cariboo Regional Airport,ZMH,CZML,CA,108 Mile,,51.73373,-121.33181,America/Vancouver,
@@ -501,14 +501,14 @@ Sparwood/Elk Valley Airport,,CYSW,CA,Sparwood,,49.83408,-114.87884,America/Edmon
 Squamish Airport,YSE,CWSK,CA,,,49.78279,-123.16185,America/Vancouver,
 St Bruno De Guigues,,CTA4,CA,St Bruno De Guigues,,47.591667,-79.430556,America/Toronto,
 St. Catharines/Niagara District Airport,YCM,CYSN,CA,Niagara-on-the-Lake,YCM,43.19167,-79.17167,America/Toronto,
-St. John's International Airport,YYT,CYYT,CA,St John's,YYT,47.616,-52.74313,America/St_Johns,2382.0
+St. John's International Airport,YYT,CYYT,CA,St John's,YYT,47.616,-52.74313,America/St_Johns,2382
 St. Lewis (Fox Harbour) Airport,YFX,CCK4,CA,St. Lewis,YFX,52.3728,-55.6739,America/St_Johns,
 St. Paul Airport,ZSP,,CA,St. Paul,,53.993695,-111.377993,America/Edmonton,
 St. Theresa Point Airport,YST,CYST,CA,St. Theresa Point,YST,53.8456,-94.8519,America/Winnipeg,
 St. Thomas Municipal Airport,YQS,CYQS,CA,St Thomas,YQS,42.77513,-81.10416,America/Toronto,
 Stephenville International Airport,YJT,CYJT,CA,Stephenville,YJT,48.54417,-58.55,America/St_Johns,
 Stewart Airport,ZST,CZST,CA,Stewart,,55.93644,-129.98148,America/Vancouver,
-Stoney Point (Le Cunff) Airport,,CRML,CA,Stoney Point,,42.2956008911,-82.5350036621,America/Nipigon,
+Stoney Point (Le Cunff) Airport,,CRML,CA,Stoney Point,,42.29560089,-82.53500366,America/Nipigon,
 Stony Rapids Airport,YSF,CYSF,CA,Stony Rapids,YSF,59.2514,-105.83679,America/Regina,
 Stratford Municipal Airport,,CYSA,CA,Stratford,,43.41504,-80.93437,America/Toronto,
 Streatham Reef Hueston Airfield,,CRHA,CA,Streatham,,53.822569,-126.172957,America/Vancouver,
@@ -518,13 +518,13 @@ Summer Beaver Airport,SUR,CJV7,CA,Summer Beaver,SUR,52.7086,-88.5419,America/Tor
 Summerside Airport,YSU,CYSU,CA,Slemon Park,,46.44056,-63.83361,America/Halifax,
 Swan River Airport,ZJN,CZJN,CA,Swan River,,52.1206,-101.236,America/Winnipeg,
 Swift Current Airport,YYN,CYYN,CA,Swift Current,YYN,50.29194,-107.69056,America/Regina,
-Sydney/J.A. Douglas McCurdy Airport,YQY,CYQY,CA,Sydney,YQY,46.16139,-60.04778,America/Glace_Bay,298.0
+Sydney/J.A. Douglas McCurdy Airport,YQY,CYQY,CA,Sydney,YQY,46.16139,-60.04778,America/Glace_Bay,298
 Taber Airport,,CED5,CA,Taber,,49.827249,-112.180346,America/Edmonton,
 Tadoule Lake Airport,XTL,CYBQ,CA,Tadoule Lake,XTL,58.7061,-98.5122,America/Winnipeg,
 Tahsis Seaplane Base,ZTS,,CA,Tahsis,,49.9207,-126.65309,America/Vancouver,
-Taloyoak Airport,YYH,CYYH,CA,Taloyoak,YYH,69.54667,-93.57667,America/Cambridge_Bay,187.0
+Taloyoak Airport,YYH,CYYH,CA,Taloyoak,YYH,69.54667,-93.57667,America/Cambridge_Bay,187
 Taltheilei Narrows Airport,GSL,,CA,Taltheilei Narrows,,62.59713,-111.5411,America/Yellowknife,
-Tasiujaq Airport,YTQ,CYTQ,CA,Tasiujaq,YTQ,58.66672,-69.95617,America/Toronto,348.0
+Tasiujaq Airport,YTQ,CYTQ,CA,Tasiujaq,YTQ,58.66672,-69.95617,America/Toronto,348
 Tasu Seaplane Base,YTU,,CA,,,52.7651,-132.04227,America/Vancouver,
 Telegraph Creek Airport,YTX,,CA,,,57.91343,-131.12672,America/Vancouver,
 Telegraph Harbour Seaplane Base,YBQ,,CA,Thetis Island,DUQ,48.97301,-123.66563,America/Vancouver,
@@ -534,44 +534,44 @@ Texada Gillies Bay Airport,YGB,CYGB,CA,Texada,YGB,49.6942,-124.518,America/Vanco
 The Pas Airport,YQD,CYQD,CA,The Pas,YQD,53.97139,-101.09111,America/Winnipeg,
 Thicket Portage Airport,YTD,CZLQ,CA,Thicket Portage,YTD,55.3189,-97.7078,America/Winnipeg,
 Thompson Municipal Airport,YTH,CYTH,CA,Thompson,YTH,55.80111,-97.86417,America/Winnipeg,
-Thunder Bay International Airport,YQT,CYQT,CA,Thunder Bay,YQT,48.37194,-89.32389,America/Toronto,1811.0
+Thunder Bay International Airport,YQT,CYQT,CA,Thunder Bay,YQT,48.37194,-89.32389,America/Toronto,1811
 Tillsonburg Airport,,CYTB,CA,Brantford,XFV,42.92469,-80.74831,America/Toronto,
-Timmins/Victor M. Power Airport,YTS,CYTS,CA,Timmins,YTS,48.5692,-81.37479,America/Toronto,584.0
+Timmins/Victor M. Power Airport,YTS,CYTS,CA,Timmins,YTS,48.5692,-81.37479,America/Toronto,584
 Tisdale Airport,YTT,,CA,Tisdale,,52.83684,-104.06641,America/Regina,
 Tofino Harbour Water Aerodrome,YTP,,CA,,,49.15536,-125.91019,America/Vancouver,
-Tofino/Long Beach Airport,YAZ,CYAZ,CA,Tofino,YAZ,49.07977,-125.77775,America/Vancouver,67.0
+Tofino/Long Beach Airport,YAZ,CYAZ,CA,Tofino,YAZ,49.07977,-125.77775,America/Vancouver,67
 Toronto/Buttonville Municipal Airport,YKZ,CYKZ,CA,Toronto,YTO,43.86222,-79.37,America/Toronto,
-Toronto Pearson International Airport,YYZ,CYYZ,CA,Toronto,YTO,43.68066,-79.61286,America/Toronto,72355.0
+Toronto Pearson International Airport,YYZ,CYYZ,CA,Toronto,YTO,43.68066,-79.61286,America/Toronto,72355
 Trail Airport,YZZ,CAD4,CA,Trail,,49.05685,-117.60793,America/Vancouver,
 Tranquille Valley Airfield,,CYKT,CA,Tranquille,,50.859547,-120.671132,America/Vancouver,
 "Trenton Municipal A, N. S.",,CYTN,CA,Trenton,,45.61125,-62.62224,America/Halifax,
 Trois-Rivieres Airport,YRQ,CYRQ,CA,Trois-Rivières,YRQ,46.3528,-72.6794,America/Toronto,
 Tsylos Park Lodge Aerodrome,CJH,,CA,,,51.6275,-124.14413,America/Vancouver,
 Tuktoyaktuk James Gruben Airport,YUB,CYUB,CA,Tuktoyaktuk,YUB,69.43333,-133.02639,America/Yellowknife,
-Tulita Airport,ZFN,CZFN,CA,Tulita,ZFN,64.9095,-125.57124,America/Yellowknife,270.0
+Tulita Airport,ZFN,CZFN,CA,Tulita,ZFN,64.9095,-125.57124,America/Yellowknife,270
 Tumbler Ridge Airport,TUX,,CA,Tumbler Ridge,,55.02731,-120.93175,America/Dawson_Creek,
 Tungsten (Cantung) Airport,TNS,,CA,Tungsten,,61.96309,-128.21783,America/Yellowknife,
-Ulukhaktok/Holman Island Airport,YHI,CYHI,CA,Ulukhaktok,YHI,70.76278,-117.80611,America/Yellowknife,27.0
-Umiujaq Airport,YUD,CYMU,CA,Umiujaq,YUD,56.53909,-76.51939,America/Toronto,308.0
+Ulukhaktok/Holman Island Airport,YHI,CYHI,CA,Ulukhaktok,YHI,70.76278,-117.80611,America/Yellowknife,27
+Umiujaq Airport,YUD,CYMU,CA,Umiujaq,YUD,56.53909,-76.51939,America/Toronto,308
 Uranium City Airport,YBE,CYBE,CA,Uranium City,YBE,59.5614,-108.481,America/Regina,
-Val-d'Or Airport,YVO,CYVO,CA,Val-d'Or,YVO,48.05018,-77.78279,America/Toronto,144.0
-Vancouver International Airport,YVR,CYVR,CA,Vancouver,YVR,49.19489,-123.17923,America/Vancouver,46207.0
+Val-d'Or Airport,YVO,CYVO,CA,Val-d'Or,YVO,48.05018,-77.78279,America/Toronto,144
+Vancouver International Airport,YVR,CYVR,CA,Vancouver,YVR,49.19489,-123.17923,America/Vancouver,46207
 Vancouver Harbour Seaplane Base,CXH,CYHC,CA,Vancouver,YVR,49.29034,-123.11511,America/Vancouver,
 Vermillon Airport,YVG,CYVG,CA,Vermilion,YVG,53.3569,-110.8251,America/Edmonton,
 Vernon Regional Airport,YVE,CYVK,CA,Vernon,YVE,50.2472,-119.33041,America/Vancouver,
-Victoria International Airport,YYJ,CYYJ,CA,Victoria,YYJ,48.64721,-123.42716,America/Vancouver,4816.0
+Victoria International Airport,YYJ,CYYJ,CA,Victoria,YYJ,48.64721,-123.42716,America/Vancouver,4816
 Victoria Inner Harbour Seaplane Base,YWH,CYWH,CA,Victoria,YYJ,48.42407,-123.37198,America/Vancouver,
 Virden/R.J. (Bob) Andrew Field Regional Aerodrome,,CYVD,CA,Virden,,49.8783,-100.918,America/Winnipeg,
 Wabasca Airport,,CEE5,CA,Wabasca,,55.961837,-113.819611,America/Edmonton,
-Wabush Airport,YWK,CYWK,CA,Wabush,YWK,52.92194,-66.86444,America/Goose_Bay,384.0
+Wabush Airport,YWK,CYWK,CA,Wabush,YWK,52.92194,-66.86444,America/Goose_Bay,384
 Wainwright Airport,,CYWV,CA,Wainwright,,52.79583,-110.8575,America/Edmonton,
-Waskaganish Airport,YKQ,CYKQ,CA,Waskaganish,YKQ,51.4753,-78.75489,America/Toronto,14.0
+Waskaganish Airport,YKQ,CYKQ,CA,Waskaganish,YKQ,51.4753,-78.75489,America/Toronto,14
 Watson Lake Airport,YQH,CYQH,CA,Watson Lake,,60.11639,-128.8225,America/Whitehorse,
 Wawa Airport,YXZ,CYXZ,CA,Wawa,,47.96667,-84.78667,America/Toronto,
 Webequie Airport,YWP,CYWP,CA,Webequie,YWP,52.96074,-87.37495,America/Toronto,
 Wekweeti Airport,YFJ,CYWE,CA,Wekweètì,YFJ,64.19166,-114.07911,America/Yellowknife,
-Wemindji Airport,YNC,CYNC,CA,Wemindji,YNC,53.01083,-78.83028,America/Toronto,14.0
-West Kootenay Regional Airport,YCG,CYCG,CA,Castlegar,YCG,49.29639,-117.6325,America/Vancouver,149.0
+Wemindji Airport,YNC,CYNC,CA,Wemindji,YNC,53.01083,-78.83028,America/Toronto,14
+West Kootenay Regional Airport,YCG,CYCG,CA,Castlegar,YCG,49.29639,-117.6325,America/Vancouver,149
 Whale Cove Airport,YXN,CYXN,CA,Whale Cove,YXN,62.24029,-92.59767,America/Rankin_Inlet,
 Whati Airport,YLE,CEM3,CA,Whatì,YLE,63.13159,-117.24764,America/Yellowknife,
 Whistler Green Lake Water Aerodrome,YWS,,CA,Whistler,,50.1449,-122.95023,America/Vancouver,
@@ -579,16 +579,16 @@ White River Seaplane Base,YWR,,CA,White River,,48.60306,-85.27528,America/Toront
 Whitecourt Airport,YZU,CYZU,CA,Whitecourt,YZU,54.14389,-115.78667,America/Edmonton,
 Wiarton Airport,YVV,CYVV,CA,Wiarton,YOS,44.74583,-81.10722,America/Toronto,
 Williams Harbour Airport,YWM,CCA6,CA,Williams Harbour,YWM,52.5669,-55.7847,America/St_Johns,
-Williams Lake Airport,YWL,CYWL,CA,Williams Lake,YWL,52.18306,-122.05417,America/Vancouver,236.0
-Windsor Airport,YQG,CYQG,CA,Windsor,YQG,42.27032,-82.96201,America/Toronto,507.0
-Winnipeg J. A. Richardson International Airport,YWG,CYWG,CA,Winnipeg,YWG,49.90572,-97.23351,America/Winnipeg,8208.0
+Williams Lake Airport,YWL,CYWL,CA,Williams Lake,YWL,52.18306,-122.05417,America/Vancouver,236
+Windsor Airport,YQG,CYQG,CA,Windsor,YQG,42.27032,-82.96201,America/Toronto,507
+Winnipeg J. A. Richardson International Airport,YWG,CYWG,CA,Winnipeg,YWG,49.90572,-97.23351,America/Winnipeg,8208
 Winnipeg St Andrews Airport,,CYAV,CA,Winnipeg/Saint Andrews,YWG,50.0564,-97.0325,America/Winnipeg,
 Wollaston Lake Airport,ZWL,CZWL,CA,Wollaston Lake,ZWL,58.1069,-103.172,America/Regina,
 Wrigley Airport,YWY,CYWY,CA,Wrigley,,63.20944,-123.43667,America/Yellowknife,
 Wunnummin Lake Airport,WNN,CKL3,CA,Wunnumin Lake,WNN,52.8939,-89.2892,America/Winnipeg,
-Wynyard / W.B. Needham Field,,CYYO,CA,Wynyard,,51.8098883726,-104.169788361,America/Regina,
+Wynyard / W.B. Needham Field,,CYYO,CA,Wynyard,,51.80988837,-104.1697884,America/Regina,
 Yarmouth Airport,YQI,CYQI,CA,Yarmouth,YQI,43.82859,-66.08877,America/Halifax,
-Yellowknife Airport,YZF,CYZF,CA,Yellowknife,YZF,62.46278,-114.44028,America/Yellowknife,3822.0
+Yellowknife Airport,YZF,CYZF,CA,Yellowknife,YZF,62.46278,-114.44028,America/Yellowknife,3822
 York Landing Airport,ZAC,CZAC,CA,York Landing,ZAC,56.0894,-96.0892,America/Winnipeg,
 Yorkton Municipal Airport,YQV,CYQV,CA,Yorkton,YQV,51.26472,-102.46167,America/Regina,
 Zama Lake Airport,,CFT9,CA,Zama Lake,,59.065047,-118.885195,America/Edmonton,
