@@ -1,0 +1,11 @@
+name,iata code,country,city,latitude,longitude,timezone,departures
+Billy Bishop Toronto City Airport,YTZ,CA,Toronto,43.62974,-79.39828,EST,752.0
+Kitchener/Waterloo Airport,YKF,CA,Breslau,43.45747,-80.38593,EST,454.0
+Montreal-Pierre Elliott Trudeau International Airport,YUL,CA,Montreal,45.46106,-73.75019,EST,35190.0
+Ottawa Macdonald-Cartier International Airport,YOW,CA,Ottawa,45.3225,-75.66917,EST,10293.0
+Toronto Pearson International Airport,YYZ,CA,Toronto,43.68066,-79.61286,EST,72355.0
+Chicago O'Hare International Airport,ORD,US,Chicago,41.97959,-87.90446,CST,177167.0
+Dallas/Fort Worth International Airport,DFW,US,Dallas-Ft Worth,32.89595,-97.0372,CST,172447.0
+Denver International Airport,DEN,US,Denver,39.85891,-104.67326,MST,100565.0
+Hartsfield-Jackson Atlanta International Airport,ATL,US,Atlanta,33.64099,-84.42265,EST,168164.0
+Los Angeles International Airport,LAX,US,Los Angeles,33.94251,-118.40897,PST,112571.0
