@@ -89,6 +89,10 @@ We utilized GoFlightLabs APIs to fetch:
 ![Merge code](images/merg_code.png)
 ![cleaning](images/merg_code2.png)
 
+## Ethical considerations
+To personally identifiable data used to ensure privacy and confidentiality. Also no sensitive information is exposed.
+Data is obtained legally and no manipulation or misrepresentation is done to obtain desired results.All assumptions are clearly documented.
+
 ## Resources
 - [GoFlightLabs Flight Prices](https://www.goflightlabs.com/flight-prices) 
 - **Dataset Licensing (under trial version):** The dataset can be used only for personal and trial   -  purposes. The trial version is not applicable for commercial purposes. 
