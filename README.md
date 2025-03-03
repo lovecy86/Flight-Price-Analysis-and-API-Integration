@@ -1,17 +1,54 @@
-# Flight Price Analysis and API Integration
+# Flight Data Analysis Project
 
-## Team Members 
+## Team Members
 1. James Garcia
 2. Lovecy Thomas
 3. Seyhr Waqas
 
 ## Project Overview & Rationale
-### Topic:
-The objective of this project is to create a detailed flight data analysis using PostgreSQL, Flask, and an ETL pipeline. The project will involve calling the API of GoflightsLab to create CSV files for each month, covering the period from March 2025 to February 2026. These files, specifically detailing flights from Toronto, Montreal, and Ottawa to Texas, will then be merged and processed to form a well-normalized database. Separate tables for airports and airlines will be created to achieve 3NF. A Flask API will facilitate user interaction with the processed data, enabling efficient querying of flight prices, itineraries, and airline specifics.
-### Rationale:
-•	Data-Driven Travel Decisions: Flight prices fluctuate frequently. Analyzing this data can provide insights into price trends and the best times to book.
-•	Efficient Flight Data Management: The ETL process will clean, structure, and store data in a normalized format for better accessibility.
-•	Real-World Applications: Airlines, travel agencies, and consumers can use this system to retrieve flight details efficiently via a user-friendly API.
+The objective of this project is to create a detailed flight data analysis using PostgreSQL, Flask, and an ETL pipeline. The project will involve calling the API of GoFlightLabs to create CSV files for each month, covering the period from March 2025 to February 2026. These files, specifically detailing flights from Toronto, Montreal, and Ottawa to Texas, will then be merged and processed to form a well-normalized database. Separate tables for airports and airlines will be created to achieve 3NF. A Flask API will facilitate user interaction with the processed data, enabling efficient querying of flight prices, itineraries, and airline specifics.
+
+### Rationale
+- **Data-Driven Travel Decisions**: Flight prices fluctuate frequently. Analyzing this data can provide insights into price trends and the best times to book.
+- **Efficient Flight Data Management**: The ETL process will clean, structure, and store data in a normalized format for better accessibility.
+- **Real-World Applications**: Airlines, travel agencies, and consumers can use this system to retrieve flight details efficiently via a user-friendly API.
+
+### Stakeholders
+The insights from this project can be valuable for:
+- Travelers looking for the most affordable flights.
+- Airlines to assess competitive pricing strategies.
+- Travel agencies to recommend budget-friendly months to customers.
+
+## Technologies Used
+- **Python** (Pandas, Flask, Pandera, ydata_profiling)
+- **PostgreSQL** (AWS RDS)
+- **APIs** (GoFlightLabs)
+- **Jupyter Notebooks** (for data processing)
+
+## Folder Structure
+
+
+
+## API Workflow
+We utilized GoFlightLabs APIs to fetch:
+- **Airport Data API** – Retrieves airport details.
+- **Airline Data API** – Provides airline-related information.
+- **Flight Price Data API** – Fetches real-time flight pricing data.
+
+### ETL (Extract, Transform, Load)
+- Collected data for airports (Canada & U.S.), airlines, and flight prices.
+- Cleaned and standardized data (filtered busiest airports, formatted timestamps, extracted relevant details).
+- Stored cleaned datasets in the `postgre_tables` folder in CSV format.
+
+### Flask API Development
+- Built a RESTful API for querying one-way flight prices.
+- Connected the API to AWS RDS (PostgreSQL).
+
+## Data Storage & Validation
+- **PostgreSQL** used for structured storage.
+- **ydata_profiling** for dataset profiling.
+- **Pandera** for data validation.
+
 ### Stakeholders:
 The insights from this project can be valuable for:
 •	Travelers looking for the most affordable flights.
