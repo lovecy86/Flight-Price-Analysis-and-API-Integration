@@ -19,9 +19,6 @@ The insights from this project can be valuable for:
 - Airlines to assess competitive pricing strategies.
 - Travel agencies to recommend budget-friendly months to customers.
 
-## Project Implementation Strategy
-![Project Implementation Strategy](images/ImplementationStrategy.png)
-
 ## Technologies Used
 - **Python** (Pandas, Flask, Pandera, ydata_profiling)
 - **PostgreSQL** (AWS RDS)
@@ -56,7 +53,6 @@ The insights from this project can be valuable for:
 - run the table_creation.sql to create tables
 - import data from postgres_data
 - Execute app.py to start the API and interact with the processed data.
-
 ![Cloud Architectural Diagram](images/clouds1.png)
 ![Up in the Cloud](images/clouds2.png)
 
@@ -97,7 +93,6 @@ We utilized GoFlightLabs APIs to fetch:
 - [GoFlightLabs Flight Prices](https://www.goflightlabs.com/flight-prices) 
 - **Dataset Licensing (under trial version):** The dataset can be used only for personal and trial   -  purposes. The trial version is not applicable for commercial purposes. 
     [Terms](https://www.goflightlabs.com/terms)
-
 - https://www.youtube.com/watch?v=0A-5ITILrMA
 
 
